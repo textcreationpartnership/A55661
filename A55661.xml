@@ -1,0 +1,1530 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The amours of Count Teckeli and the Lady Aurora Veronica de Serini containing his first inducements to make war with the emperour, and to enter into the Turkish interests against the Christians.</title>
+            <author>Préchac, Jean de, 1647?-1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 62 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55661</idno>
+            <idno type="STC">Wing P3203</idno>
+            <idno type="STC">ESTC R25592</idno>
+            <idno type="EEBO-CITATION">09025541</idno>
+            <idno type="OCLC">ocm 09025541</idno>
+            <idno type="VID">42268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55661)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42268)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1292:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The amours of Count Teckeli and the Lady Aurora Veronica de Serini containing his first inducements to make war with the emperour, and to enter into the Turkish interests against the Christians.</title>
+                  <author>Préchac, Jean de, 1647?-1720.</author>
+               </titleStmt>
+               <extent>112 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bentley and S. Magnes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Translated out of French."</note>
+                  <note>Attributed to Jean de Préchac--Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42268:1"/>
+            <p>THE AMOURS OF Count <hi>TECKELI</hi> And the LADY Aurora Veronica
+DE SERINI. Containing his firſt Induce<g ref="char:EOLhyphen"/>ments to make War with the Emperour,
+and to enter into the <hi>Turkiſh</hi> Intereſts, againſt the
+Chriſtians.</p>
+            <p>Tranſlated out of <hi>French.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Bentley</hi> and <hi>S.
+Magnes</hi> in <hi>Ruſſel-ſtreet</hi> in <hi>Covent-Garden,</hi>
+1686.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:42268:2" rendition="simple:additions"/>
+            <p>LICENSED,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>December</hi> 2.
+1685.</date>
+               </dateline> 
+               <signed>ROGER L'ESTRANGE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42268:2"/>
+            <pb facs="tcp:42268:3"/>
+            <pb facs="tcp:42268:3" rendition="simple:additions"/>
+            <pb facs="tcp:42268:4" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:42268:4"/>
+            <head>THE AMOURS OF Count <hi>TECKELI</hi> And the LADY Aurora
+Veronica DE SERINI.</head>
+            <p>
+               <hi>H<g ref="char:V">Ʋ</g>NGARY</hi> had been always an Elective Kingdom, before the
+Crown came into
+<pb n="2" facs="tcp:42268:5"/>the poſſeſſion of the Princes of the
+Houſe of <hi>Auſtria.</hi> And the <hi>Hungarians</hi> had yet pre<g ref="char:EOLhyphen"/>ſerved
+ſome ſort of Liberty, by means of the Priviledges which had been granted to
+them by their firſt Kings, and of which they made the Ob<g ref="char:EOLhyphen"/>ſervation be
+ſworn to, by all that came to that Crown. The chief points of which were,
+That no matter of great Impor<g ref="char:EOLhyphen"/>tance ſhould be proceeded upon, without the
+Advice and Con<g ref="char:EOLhyphen"/>ſent of the Diet, which ſhould be always called once in
+three years. That they ſhould be Governed by a <hi>Palatine,</hi> who
+ſhould have the adminiſtration of all the Affairs of War, Go<g ref="char:EOLhyphen"/>vernment, and
+Juſtice. That this <hi>Palatine</hi> ſhould always be of their own Nation:
+That
+<pb n="3" facs="tcp:42268:5"/>he ſhould be Named by the States, and Confirmed
+by the King. That none of the Offi<g ref="char:EOLhyphen"/>ces of the Kingdom ſhould be given to any
+but natural <hi>Hungarians;</hi> That no Foreign Forces ſhould be admitted
+into any of their Places; and that they themſelves ſhould have the charge
+of defending their own Country. The Princes of the Houſe of
+<hi>Auſtria,</hi> which having alſo the Imperial Dig<g ref="char:EOLhyphen"/>nity, with that of
+Kings of <hi>Hungary</hi> and <hi>Bohemia,</hi> and a great Authority,
+endeavou<g ref="char:EOLhyphen"/>red, by little and little, to take away theſe Priviledges, and
+chiefly the Emperour <hi>Leopold Ignatius,</hi> who now Reigns. This bred very
+ill Blood a<g ref="char:EOLhyphen"/>mongſt all the Nobility, and it chiefly provoked Count
+<hi>Weſſe<g ref="char:EOLhyphen"/>lini,</hi>
+               <pb n="4" facs="tcp:42268:6"/>who was then <hi>Palatine,</hi> who reſolved to
+ſhake off a yoak, which ſeemed too hea<g ref="char:EOLhyphen"/>vy to him; but he could not put ſo
+great a Deſign in execu<g ref="char:EOLhyphen"/>tion by his own Power, he there<g ref="char:EOLhyphen"/>fore reſolved to
+engage all the other Lords of his Country; and principally the Proteſtants,
+ta<g ref="char:EOLhyphen"/>king for a pretence, that the Emperour, by the Advice of his Evil
+Miniſters, diſturbed them in the exerciſe of their Religion.
+<hi>Weſſelini,</hi> who knew Love to be the great Spring which moves the
+grea<g ref="char:EOLhyphen"/>teſt Affairs, reſolved to make uſe of it for the executing of his
+deſign. <hi>Aurora Veronica,</hi> Daughter to Count <hi>Peter de Serini,</hi>
+ſeemed to him very proper to act ſo important a part. She had Beauty, a
+pene<g ref="char:EOLhyphen"/>trating
+<pb n="5" facs="tcp:42268:6"/>Wit, and a way ſo inſi<g ref="char:EOLhyphen"/>nuating, that it was
+capable of gaining the moſt Rebellious of Hearts. Beſides, having been bred
+up in the Houſe of <hi>Kathe<g ref="char:EOLhyphen"/>rine Frangipani,</hi> her Mother, who was one of
+the moſt Am<g ref="char:EOLhyphen"/>bitious Women in <hi>Europe,</hi> it was impoſſible for her
+not to be inſpired with ſome of the ſame Thoughts. Count <hi>Serini</hi>
+was newly made Ban or Vice-Roy of <hi>Croatia,</hi> which Employ<g ref="char:EOLhyphen"/>ment the
+Emperour gave him, upon the vacancy of it, by the Death of <hi>Nicholas de
+Serini,</hi> his Brother, which made him abſolute Maſter of that whole
+Province. But this Count be<g ref="char:EOLhyphen"/>ing diſſatisfied with the Court, for having
+refuſed him the Go<g ref="char:EOLhyphen"/>vernment of <hi>Carolſtad,</hi> the Ca<g ref="char:EOLhyphen"/>pital City of his
+Government,
+<pb n="6" facs="tcp:42268:7"/>and the Command of a ſepa<g ref="char:EOLhyphen"/>rate Body of an Army,
+to ſerve againſt the <hi>Turks.</hi> Theſe were all favourable
+Conjunctures, to draw him into the Confedera<g ref="char:EOLhyphen"/>cy which the <hi>Palatine</hi> was
+plotting. <hi>Weſſelini</hi> had a Son, well made in his Perſon,
+A<g ref="char:EOLhyphen"/>morous, and very likely to ex<g ref="char:EOLhyphen"/>cite Love; he was called
+<hi>Vladi<g ref="char:EOLhyphen"/>ſlaus.</hi> The <hi>Palatine</hi> reſolved to make uſe of him,
+to gain Ma<g ref="char:EOLhyphen"/>dam <hi>de Serini</hi> to his Party, and having communicated to him
+the deſign which he had of Marrying him to this lovely Perſon he commanded
+him to go to <hi>Lapſina,</hi> a Caſtle belong<g ref="char:EOLhyphen"/>ing to Count
+<hi>Serini,</hi> three Leagues from <hi>Schachſtorn,</hi> in
+<hi>Croatia,</hi> where he went to ſpend the Summer with all his Family, upon
+pretence of gi<g ref="char:EOLhyphen"/>ving
+<pb n="7" facs="tcp:42268:7"/>that Count advice of the Deſigns which the
+<hi>Turks</hi> had upon the Places of his Govern<g ref="char:EOLhyphen"/>ment, and recommended to him
+chiefly, to endeavour, du<g ref="char:EOLhyphen"/>ring his ſtay at <hi>Lapſina,</hi> to gain the
+Love of the Beautiful <hi>Au<g ref="char:EOLhyphen"/>rora Veronica,</hi> aſſuring him, that if he
+could engage the Heart of the young Lady, he would go himſelf to requeſt
+her from her Father for him. <hi>Vla<g ref="char:EOLhyphen"/>diſlaus,</hi> who had hitherto kept his
+Liberty, eaſily ſubmitted to his Father's Commands, and went, within a few
+days to <hi>Lapſina,</hi> where he was very well received by Count
+<hi>Serini,</hi> who was over-joyed to ſhew to the <hi>Palatine,</hi> in the
+Perſon of his Son, the Eſteem which he had for him. He found with Madam
+<hi>Serini,</hi> only <hi>Joſhua,</hi> a
+<pb n="8" facs="tcp:42268:8"/>young Gentleman of the Neighbourhood, who had
+been bred near her, and for whom ſhe had, for this reaſon, a great deal of
+Complaiſance. <hi>Vladi<g ref="char:EOLhyphen"/>ſlaus</hi> ſoon perceived <hi>Joſhua</hi> was
+in Love with <hi>Aurora Veronica,</hi> by the uneaſineſs which his
+aſſi<g ref="char:EOLhyphen"/>duous viſits to her, cauſed in him; but he diſſembled the
+knowledge of it, being fully perſuaded, that the Competi<g ref="char:EOLhyphen"/>tion of a Man of a
+Quality ſo inferiour to his, would not be capable of overthrowing his
+Deſigns. <hi>Joſhua</hi> did not keep the ſame moderation; for every one
+being apt to flatter him<g ref="char:EOLhyphen"/>ſelf in Love, he had taken the Civility which my
+Lady <hi>Ve<g ref="char:EOLhyphen"/>ronica</hi> had ſhewed to him for Love, and looked upon any
+Complaiſance, which ſhe ſhew<g ref="char:EOLhyphen"/>ed
+<pb n="9" facs="tcp:42268:8"/>for young <hi>Weſſelini,</hi> as a breach of
+Faith towards him. He thought, at firſt, that ſhe would take notice of his
+trouble, and that ſhe would change her behaviour towards him. But ſeeing
+ſhe did not heed it, and that ſhe ſuffered him to be devoured by his
+ſe<g ref="char:EOLhyphen"/>cret Afflictions, without ma<g ref="char:EOLhyphen"/>king the leaſt excuſe to her, he thought
+he was obliged, at length, to break ſilence. Ha<g ref="char:EOLhyphen"/>ving, one Evening, found
+Ma<g ref="char:EOLhyphen"/>dam <hi>de Serini</hi> alone with her Daughter, in <hi>Lapſini</hi>
+Gardens, whilſt <hi>Vladiſlaus</hi> was gone out to Hunt with Count
+<hi>Serini,</hi> he approached her, and ſpeaking ſoftly, <hi>You came,
+without doubt,</hi> (ſaid he to her) <hi>to think of him, whom you are not
+allowed to ſee this day.</hi> My Lady <hi>Veronica,</hi>
+               <pb n="10" facs="tcp:42268:9"/>having no inclination for
+<hi>Weſſe<g ref="char:EOLhyphen"/>lini,</hi> would not break with <hi>Joſhua,</hi> who
+contributed ſome<g ref="char:EOLhyphen"/>times to her Diverſion, by his lively Wit, pretended not
+to underſtand him. <hi>I aſſure you,</hi> (replied ſhe) <hi>I mind Men
+ſo little, that the moment they are not with me, I think to more of them; But
+yet I thought,</hi> (replyed <hi>Jo<g ref="char:EOLhyphen"/>ſhua</hi> with a tender and
+paſſio<g ref="char:EOLhyphen"/>nate Air) <hi>you miſſed me ſome<g ref="char:EOLhyphen"/>times heretofore, when I was
+from you; but ſince—That happened ſo ſeldom,</hi> (ſaid my Lady
+<hi>Veronica,</hi> interrupting him pleaſantly) <hi>that I had not the time
+to examine my ſelf, whe<g ref="char:EOLhyphen"/>ther your Abſence made me un<g ref="char:EOLhyphen"/>eaſie. If you have
+not made theſe Reflections, in relation to me.</hi> (replyed, abruptly,
+<hi>Joſhua</hi>) <hi>it is, it may be, becauſe you have
+<pb n="11" facs="tcp:42268:9"/>a greater Concern for Count</hi> Weſſe<g ref="char:EOLhyphen"/>lini.
+As <hi>Joſhua</hi> was ſpeaking theſe words, <hi>Vladiſlaus,</hi> who
+was come into the Garden, at his return from the Chace, came towards <hi>Aurora
+Veronica.</hi> She turned immediately to him, and ſpeaking with the ſame
+ai<g ref="char:EOLhyphen"/>rineſs, <hi>You are come in a very good time, my Lord,</hi> (purſued
+ſhe) <hi>to anſwer a Queſtion, which was asked me by this
+Gentle<g ref="char:EOLhyphen"/>man,</hi> pointing at <hi>Joſhua. He asks me if I am not uneaſie,
+when you are not with me; what do you think of it? I ſhould account my ſelf
+very happy,</hi> (replied <hi>Weſſelini,</hi>) <hi>if that were true. You
+ſhould not long enjoy this Happi<g ref="char:EOLhyphen"/>neſs,</hi> (replied <hi>Joſhua,</hi>
+looking upon his Rival with Eyes wherein his Jealouſie was fla<g ref="char:EOLhyphen"/>ming). <hi>And
+who ſhould diſturb
+<pb n="12" facs="tcp:42268:10"/>my Happineſs?</hi> (anſwered
+<hi>Vladi<g ref="char:EOLhyphen"/>ſlaus</hi> with a ſcornful Air) <hi>would you? Methinks our Birth
+makes a difference great enough between us, for me not to have any cauſe of
+fearing your Competition. You thing</hi> (replied <hi>Joſhua</hi> ſharply)
+<hi>you are yet in</hi> Hungary; <hi>but I deſire you will remember we are
+in</hi> Croatia, <hi>and if a man be born a Gentleman, and have Courage, he may
+account himſelf equal to all that are not Princes. If you were elſewhere,
+you ſhould, it may be, not have reaſon to doubt of what I ſay; but I know
+the reſpect which is due to my Lady, and I ſhall take a better time to
+Convince you of it.</hi> Fi<g ref="char:EOLhyphen"/>niſhing theſe words he went out of the Garden,
+without waiting for his Rival's Anſwer.</p>
+            <pb n="13" facs="tcp:42268:10"/>
+            <p>My Lady <hi>Veronica</hi> informed her Father of what had
+paſſed between theſe two Rivals, and the Count immediately cauſed
+<hi>Joſhua</hi> to be ſearched for with care; but it was impoſſible to
+find him. He remained con<g ref="char:EOLhyphen"/>cealed, for eight days, near the Caſtle, and took
+his time ſo well, that, one morning, when he was no more thought of,
+<hi>Weſſelini</hi> being gone out of the Caſtle, to walk in the cool of
+the Morning, he came out of his Ambuſcade, and coming up fiercely to the
+<hi>Palatine's</hi> Son, forced him to draw his Sword. They both fighting with
+great eagerneſs, the Combate would have been fatal to one or the other, and
+it may be to both, if Count <hi>Serini</hi> had not come to part them. He
+cauſed <hi>Weſ<g ref="char:EOLhyphen"/>ſelini</hi>
+               <pb n="14" facs="tcp:42268:11"/>to be carried to the Caſtle, he being wounded
+in many places. But <hi>Joſhua,</hi> who was leaſt hurt, went a way with
+all ſpeed, no body diſcovering which way he took. Madam <hi>de Serini,</hi>
+did not in along time hear any news of this deſperate Lover, and found him
+not again until ten years after this time, by a ſtrange ſurpriſing
+Accident, vvhich I ſhall relate in the end of this following
+Diſcourſe.</p>
+            <p>Count <hi>Serini</hi> having given an Account to the
+<hi>Palatine,</hi> of his Sons being wounded, he came over immediately to
+<hi>Lap<g ref="char:EOLhyphen"/>ſina,</hi> and was glad by diſchar<g ref="char:EOLhyphen"/>ging this natural Obligation, to
+be able to lay the foundati<g ref="char:EOLhyphen"/>on of a Plot, which he had in his Head. He found
+his Son
+<pb n="15" facs="tcp:42268:11"/>in a pretty good Condition, by the Care which
+had been taken of him, and therefore he would no longer defer, breaking the
+Matter to the Counteſs of <hi>Se<g ref="char:EOLhyphen"/>rini.</hi> The firſt time he found
+himſelf alone with her, he in<g ref="char:EOLhyphen"/>truſted her with the thoughts he had, of
+delivering <hi>Hungary</hi> from the Bondage, under which the Emperour kept the
+Nobili<g ref="char:EOLhyphen"/>ty and Commonalty. The <hi>Palatine</hi> had no ſooner made this
+overture, but ſhe promis'd to concur with him, with all her Power, and to
+ſpeak of it to her Husband, and to Count <hi>Frangipani</hi> her Brother, who
+was to be at <hi>Lapſina</hi> with<g ref="char:EOLhyphen"/>in two days. The Coun<g ref="char:EOLhyphen"/>teſs perform'd her
+promiſe to the <hi>Palatine,</hi> and repreſented to her Husband, who was
+diſſa<g ref="char:EOLhyphen"/>tisfied
+<pb n="16" facs="tcp:42268:12"/>at the refuſal which had been made to him, of
+the Go<g ref="char:EOLhyphen"/>vernment, of <hi>Carolſtad,</hi> that he might by the means of this
+League, make himſelf Sove<g ref="char:EOLhyphen"/>raign of <hi>Croatia.</hi> The Count was caught by
+this Bait, and finding his Brother-in-Law of the ſame mind, they conferred
+both with the <hi>Palatine,</hi> by the means of the Counteſs. The only thing
+which ſtaid the Exe<g ref="char:EOLhyphen"/>cution of their Deſign, was to finde out a Fond great
+enough, to raiſe and maintain the Forces, which they ſhould be oblig'd to
+have on foot. The Counteſs, be<g ref="char:EOLhyphen"/>ing an <hi>Italian</hi> Lady, could not want
+Expedients, propoſed enga<g ref="char:EOLhyphen"/>ging in their Party, Prince <hi>Ra<g ref="char:EOLhyphen"/>gotski,</hi>
+whoſe Father, who had been Prince of <hi>Tranſylvania,</hi> had heaped up
+great Riches, which his
+<pb n="17" facs="tcp:42268:12"/>Widow kept at <hi>Mencatz,</hi> a ſtrong
+Place in upper <hi>Hungary,</hi> and that not to fail of what would be
+abſolutely neceſſary for their undertaking, it would be con<g ref="char:EOLhyphen"/>venient to
+marry the young Lady <hi>Serini</hi> to that Prince. The Palatine having
+reliſhed this Propoſition, told the Com<g ref="char:EOLhyphen"/>pany, that this Prince intended to
+go for a Month to <hi>Dron<g ref="char:EOLhyphen"/>theim,</hi> to take the Waters, and it was
+reſolved that the Coun<g ref="char:EOLhyphen"/>teſs ſhould go thither with her Daughter, to
+ſhew her to the Prince, and endeavour to make him in Love with her.</p>
+            <p>Whilſt theſe four Perſons took meaſures for the making of
+War. Count <hi>Teckeli,</hi> who was <hi>Weſſelini</hi>'s Friend, having
+heard of his Duel, and of his
+<pb n="18" facs="tcp:42268:13"/>Wounds, at the Caſtle of <hi>Kuſs,</hi>
+being then with his Father, came to <hi>Lapſina,</hi> to give him a viſit.
+The Counteſs, to whom his Courage was known, knew that it would be of great
+Ad<g ref="char:EOLhyphen"/>vantage to the Conſpirators, for them to get this Young Count to enter
+into the Con<g ref="char:EOLhyphen"/>federacy. To ſucceed in this Deſign, ſhe thought, ſhe
+ought to make Love be of uſe to Ambition, and commanded her Daughter to make
+uſe of all her Charms, to endeavour to pleaſe <hi>Teckeli.</hi> She could
+not command a more pleaſant thing to Lady <hi>Veronica,</hi> for the firſt
+time ſhe had ſeen Count <hi>Teckeli,</hi> ſhe had felt ſome Inclination
+to<g ref="char:EOLhyphen"/>wards him, and did wiſh he loved her. <hi>Teckeli</hi> on his part, had
+had the ſame thoughts,
+<pb n="19" facs="tcp:42268:13"/>and they paſſed ſome days with<g ref="char:EOLhyphen"/>out
+explaining themſelves, than by their Looks, and emotions of their Hearts.
+<hi>Teckeli</hi> being very familiar with young <hi>Weſſe<g ref="char:EOLhyphen"/>lini,</hi> he
+asked him the ground of his Quarrel with <hi>Joſhua,</hi> and
+<hi>Vladiſlaus</hi> made no diffi<g ref="char:EOLhyphen"/>culty of truſting him with it, he added
+alſo, that his Father was come, on purpoſe to <hi>Lap<g ref="char:EOLhyphen"/>ſina,</hi> to
+conclude a marriage be<g ref="char:EOLhyphen"/>tween him and Lady <hi>Veronica de Serini,</hi> and that
+he believed ſhe would conſent to it, without much repugnance, becauſe
+ſhe had always ſhewn to him a great deal of Favour, ſince he had been at
+the Caſtle.</p>
+            <p>
+               <hi>Teckeli</hi> ſeemed ſtruck, as witha Thunderbolt, when he
+heard this news; and in the fear wherein he was, that <hi>Weſſe<g ref="char:EOLhyphen"/>lini</hi>
+               <pb n="20" facs="tcp:42268:14"/>ſhould perceive his Con<g ref="char:EOLhyphen"/>cern, he went out of
+the Room, upon a pretence which he made upon the ſudden. <hi>Teckeli,</hi>
+ſince this fatal Confidence, fell into a deep Melancholly, which ſurpriz'd
+every body at <hi>Lapſi<g ref="char:EOLhyphen"/>na.</hi> Lady <hi>Veronica,</hi> who had a greater
+ſhare in it than the o<g ref="char:EOLhyphen"/>thers, was moſt earneſt to clear her doubts. One
+Night as <hi>Teckeli</hi> led her, walking with her, ſhe could not forbear
+ſay<g ref="char:EOLhyphen"/>ing to him, ſeeing him wrap<g ref="char:EOLhyphen"/>ped up in ſo deep a ſtudy, <hi>I ſee,
+my Lord, you are weary of</hi> Lap<g ref="char:EOLhyphen"/>ſina, <hi>and you are troubled at your
+having quitted the Diver<g ref="char:EOLhyphen"/>ſions which you had in</hi> Hunga<g ref="char:EOLhyphen"/>ry, <hi>to come
+into</hi> Croatia, <hi>where you find none of thoſe Sports. From whence comes
+it, Madam,</hi> (replied the Count) <hi>that you
+<pb n="21" facs="tcp:42268:14"/>make this judgment of me? Do you think I have
+ſo little under<g ref="char:EOLhyphen"/>ſtanding, as to be tired with a Place where you are? It
+looks as if you found little ſatisfaction in my Company,</hi> (replied Lady
+Veronica) <hi>ſince you ſpeak to me only, when Civility forces you to
+anſwer me, and I am forced to keep up the Converſation, which you ſuffer
+to fall every moment, you muſt neceſſarily have your mind
+prepoſſeſt with ſome trouble. It is not,</hi> replied the Count
+ſen<g ref="char:EOLhyphen"/>ding forth a ſigh, <hi>for my having abandoned my ſelf to the
+Plea<g ref="char:EOLhyphen"/>ſure which I took at</hi> Lapſina, <hi>and for having ſuffered my
+ſelf to be deceiv'd by flattering Hopes, that I have fallen into the
+deſpairing Condition where<g ref="char:EOLhyphen"/>in you ſee me. Adieu, Madam; do not force me to
+tell you more,
+<pb n="22" facs="tcp:42268:15" rendition="simple:additions"/>I ſhould it may be, attract your
+hatred, and I ſhould yet be more unfortunate than I am. Weſſelini</hi>
+ending theſe words, took his leave of Lady <hi>Veronica,</hi> leaving her in
+a great diſorder of mind. She did not find, that he could by loving her
+commit ſo great a Crime, as not to dare to make a Confeſſion of it to
+her, and ſhe could not imagine vvhat he found himſelf Guilty of.</p>
+            <p>Count <hi>Teckeli</hi> on his ſide, found it ſo very difficult
+to hide from his Miſtreſs, the trouble with which his mind was perplexed,
+that at laſt with the force he had uſed to him<g ref="char:EOLhyphen"/>ſelf, he fell into ſo
+violent a Fea<g ref="char:EOLhyphen"/>ver, that the third day his life was deſpared of. Lady
+<hi>Ve<g ref="char:EOLhyphen"/>ronica</hi> vvent to give him a Viſit,
+<pb n="23" facs="tcp:42268:15"/>and having preſſed him ex<g ref="char:EOLhyphen"/>treamly, to tell
+her the cauſe of his Melancholly; he con<g ref="char:EOLhyphen"/>feſſed to her, that from the
+firſt moment that he had ſeen her, he had been ſo ſtricken vvith her
+Charms, and not being capable of hoping ever to poſſeſs her, ſince
+ſhe was deſigned for Count <hi>Weſſelini,</hi> it vvould be no regret
+to him, to part vvith his life, vvhich could not be tollerable to him vvithout
+her. Lady <hi>Veronica</hi> undeceived him, and told him that if
+<hi>Weſſelini</hi> had any deſign upon her, he had never let her knovv
+it, and that he had not ſo much as propos'd any thing concer<g ref="char:EOLhyphen"/>ning ſuch an
+Affair to her Re<g ref="char:EOLhyphen"/>lations, and that he might aſ<g ref="char:EOLhyphen"/>ſure himſelf, that if
+ſhe had
+<pb n="24" facs="tcp:42268:16"/>the freedom of her Choice, he ſhould be no
+longer un<g ref="char:EOLhyphen"/>happy. This flattering Diſcourſe had more effect than all the
+Phyſicians Remedies. The joy which this cauſed in <hi>Teckeli,</hi> ſoon
+cured his Diſeaſe, and in a few days his Feaver left him. The Counteſs of
+<hi>Serini,</hi> to whom the Daughter gave an Account of <hi>Tecklei</hi>'s
+Diſcourſe, went to ſee him, ſo ſoon as ſhe heard ſhe might
+diſcourſe with him, without prejudicing his Health, and after having given
+him to underſtand, that Count <hi>Serini</hi> would think him<g ref="char:EOLhyphen"/>ſelf honoured
+by an Alliance with him, ſhe hinted to him ſomething of the Conſpiracy.
+<hi>Teckeli,</hi> who wiſhed with paſſi<g ref="char:EOLhyphen"/>on, for an opportunity of do<g ref="char:EOLhyphen"/>ing
+Count <hi>Serini</hi> ſome impor<g ref="char:EOLhyphen"/>tant
+<pb n="25" facs="tcp:42268:16"/>Service, which might ob<g ref="char:EOLhyphen"/>lige him to prefer him
+before other Pretenders, in the choice of a Son-in-Law, promiſed the
+Counteſs to return to <hi>Kus,</hi> ſo ſoon as he was in a condition to
+ſit on Horſe-back, and to uſe all his skill and endeavours to bring his
+Father into this League.</p>
+            <p>On another hand, <hi>Weſſelini,</hi> being perfectly cured of
+his Wounds, deſired the <hi>Palatine</hi> to Requeſt for him Lady
+<hi>Ve<g ref="char:EOLhyphen"/>ronica</hi> from her Parents; but he was ſtrangely aſtoniſhed,
+when his Father told him, he ought to think no more of her, for ſhe was
+deſigned for Prince <hi>Ragotski. Vladiſlaus</hi> in vain repreſented to
+his Father, the violent Paſſion which he
+<pb n="26" facs="tcp:42268:17"/>had for Lady <hi>Veronica Serini,</hi> and that
+he himſelf had kind<g ref="char:EOLhyphen"/>led the Fire which Conſumed him. This ſevere old Man
+an<g ref="char:EOLhyphen"/>ſwered his Son, with a Tone which exacted Obedience, that Perſons of his
+Age and Qua<g ref="char:EOLhyphen"/>lity, ought to be ſenſible of no other Paſſion but
+Ambition; that his Deſign was to make him Reign in <hi>Hungary,</hi> and to
+aſſure him a Crown, which the Princes of the Houſe of <hi>Auſtria</hi>
+intended to perpetu<g ref="char:EOLhyphen"/>ate in their Family, contrary to the fundamental Laws of
+the Kingdom. He then ex<g ref="char:EOLhyphen"/>plain'd to him the meaſures which he had taken with
+Count <hi>Serini,</hi> and the neceſſi<g ref="char:EOLhyphen"/>ty which there was of enga<g ref="char:EOLhyphen"/>ging
+Prince <hi>Ragotski</hi> in his Party, by the Alliance which
+<pb n="27" facs="tcp:42268:17"/>he had projected. But fearing leſt a longer
+ſtay might in<g ref="char:EOLhyphen"/>creaſe his Son's Paſſion, and hinder him from obeying his
+Commands, he reſolved to de<g ref="char:EOLhyphen"/>part from thence the next day, to return to
+<hi>Murano,</hi> and took with him this unfortunate Lover.</p>
+            <p>Count <hi>Teckeli</hi> made little ſtay after the departure of
+the <hi>Palatine,</hi> to take his leave of Lady <hi>Veronica,</hi> that he
+might be quickly with his Father, to perſwade him to enter into the
+Confederacy. The fare<g ref="char:EOLhyphen"/>well he took of <hi>Aurora,</hi> was tender and
+paſſionate on both ſides, and ſhe promiſed the Count, that provided
+he could get the conſent of her Parents, he ſhould find no Obſtacle on
+<pb n="28" facs="tcp:42268:18"/>her ſide, and that ſhe ſhould obey,
+without reluctancy, the Commands they ſhould lay up<g ref="char:EOLhyphen"/>on her of marrying him.
+She told him, ſhe was within a Month to go with them to <hi>Dron<g ref="char:EOLhyphen"/>theim,</hi>
+to drink the Waters. And <hi>Teckeli</hi> promiſed to meet her there, and to
+give her an account of his Negotiation. Scarce was <hi>Teckeli</hi> gone from
+<hi>Lapſina,</hi> when the Count of <hi>Tachtembach</hi> came thither, to
+in<g ref="char:EOLhyphen"/>creaſe the number of the Con<g ref="char:EOLhyphen"/>queſts of Lady <hi>Veronica Serini.</hi> He
+is one of the greateſt men of <hi>Stiria,</hi> handſom enough, magnificent
+in all his Actions, but Voluptuous, without being Amorous. The very firſt day
+he ſaw my Lady <hi>Veronica,</hi> he told her, without any diffi<g ref="char:EOLhyphen"/>culty, in
+plain terms he loved
+<pb n="29" facs="tcp:42268:18"/>her, and deſired her of her Fa<g ref="char:EOLhyphen"/>ther for his
+Wife, not doubting but that his offer would be em<g ref="char:EOLhyphen"/>braced, they knowing his
+E<g ref="char:EOLhyphen"/>ſtate and Birth. Count <hi>Serini</hi> received the Propoſition very
+ci<g ref="char:EOLhyphen"/>vily; but not intending to refuſe it, nor yet to engage himſelf to him,
+he anſwered him only, that he ought to give himſelf time to be acquainted
+with his Daughter, and let her know his Humour, to ſee if they were proper
+for each other; and changing at the ſame time the Subject of their
+diſcourſe, to free himſelf from <hi>Tachtembach</hi>'s Perſecutions,
+who would abſo<g ref="char:EOLhyphen"/>lutely compleat the marriage, before he left
+<hi>Lapſina,</hi> he told him of the report which was very hot, that the King
+of <hi>Spain</hi> was dead, and that the
+<pb n="30" facs="tcp:42268:19"/>Emperour intending to go to take
+poſſeſſion of that Crown, the Empreſs was to govern in his abſence
+the Hereditary Pro<g ref="char:EOLhyphen"/>vinces, with the Title of Re<g ref="char:EOLhyphen"/>gent. <hi>If this news be
+true,</hi> ad<g ref="char:EOLhyphen"/>ded Count <hi>Serini, we ſhould be very unhappy, to be reduced
+to ſubmit to the Government of a Woman. Tachten bach,</hi> who affected to be
+<hi>Gallant,</hi> anſwe<g ref="char:EOLhyphen"/>red, <hi>that Men were born only to obey the fair
+Sex. There is a great deal of difference,</hi> replied Count <hi>Serini,
+between an Obe<g ref="char:EOLhyphen"/>dience which is voluntarily paid to a Perſon one loves, and
+that which one is forced to pay to a Soveraign Princeſs.</hi> Whilſt Count
+<hi>Serini</hi> was ſpeaking thus, the Counteſs his Wilfe came into them,
+and he being willing to let her finiſh what
+<pb n="31" facs="tcp:42268:19"/>he had but rough drawn, he added, he would be
+judged by the Counteſs, and having in<g ref="char:EOLhyphen"/>formed her in few words, of the Subject
+of their Diſcourſe, he engaged her to tell his Friend. The Counteſs, who
+had a great deal of ſubtle wit, and that ſo well turned, that ſhe
+deſcribed ſo livelily to <hi>Tach<g ref="char:EOLhyphen"/>tembach,</hi> the ſhame it was, to live
+in ſuch a ſlavery as the Princes of the Houſe of <hi>Auſtria</hi> had
+reduced the <hi>Hungarians</hi> to, that it raiſed in him an earneſt
+deſire to throw off ſo heavy a Yoak, and then taking up a<g ref="char:EOLhyphen"/>gain her
+pleaſant Air, ſhe told him that the Count her Hus<g ref="char:EOLhyphen"/>band, being like to be
+ſudden<g ref="char:EOLhyphen"/>ly King of <hi>Croatia,</hi> ſhe would not marry her Daughter to any
+but a Soveraign Prince,
+<pb n="32" facs="tcp:42268:20"/>and that he ſhould conſider with himſelf,
+whether he had Courage enough to make him<g ref="char:EOLhyphen"/>ſelf Maſter of
+<hi>Stiria.</hi>
+            </p>
+            <p>The Converſation was car<g ref="char:EOLhyphen"/>ried no farther this day, but Count
+<hi>Serini</hi> had many other diſcourſes with <hi>Tachtembach,</hi>
+wherein they diſcuſſed this matter to the Bottom. <hi>Tach<g ref="char:EOLhyphen"/>tembach</hi>
+objected ſeveral diffi<g ref="char:EOLhyphen"/>dulties, <hi>viz.</hi> the Number of the Forces fit to
+be raiſed, the money neceſſary to keep them up, and what Places could be
+had convenient to retire into. Count <hi>Serini</hi> anſwered all theſe
+Objections, and told him he was Maſter of <hi>Schachthorn,</hi> the
+<hi>Palatine</hi> of <hi>Murano;</hi> and that <hi>Ragotski,</hi> whom they
+intended to get into the Confederacy,
+<pb n="33" facs="tcp:42268:20"/>would deliver up <hi>Mencatz,</hi> and would
+raiſe Forces with the Money which his Father had gathered, and kept in that
+Caſtle; that therefore <hi>Tachtem<g ref="char:EOLhyphen"/>bach</hi> ſhould only need to make
+himſelf Maſter of <hi>Gratz.</hi> In that he knew ſo well how to manage
+this Counts humour, that he made him ſign a Trea<g ref="char:EOLhyphen"/>ty, of which he had drawn a
+Project with the <hi>Palatine,</hi> be<g ref="char:EOLhyphen"/>fore he went away.
+<hi>Tachtem<g ref="char:EOLhyphen"/>bach,</hi> after having been a fort<g ref="char:EOLhyphen"/>night at <hi>Lapſina,</hi>
+took leave of Count <hi>Serini,</hi> and deſired him to come to ſee him, at
+the Caſtle of <hi>Krantzfield,</hi> with the Counteſs his Wife, and the
+Charming <hi>Aurora Veronica;</hi> which the Count eaſily promi<g ref="char:EOLhyphen"/>ſed him,
+being deſirous to keep him in the good diſpo<g ref="char:EOLhyphen"/>ſition
+<pb n="34" facs="tcp:42268:21"/>into which he brought him.</p>
+            <p>The ſeaſon for drinking the Waters drawing near, Count
+<hi>Serini</hi> thought it requiſite not to defer, any longer, his Journey to
+<hi>Krantzfield,</hi> that he might afterwards go to <hi>Drontheim,</hi>
+without paſſing by <hi>Lapſina</hi> a<g ref="char:EOLhyphen"/>gain. <hi>Tachtembach</hi> having
+had notice, by a Letter from Count <hi>Serini,</hi> that he was ſetting out
+to go to viſit him with all his Family, prepared to entertain him with his
+uſual Magnifi<g ref="char:EOLhyphen"/>cence; and having ſent for Actors and Violins to
+<hi>Gratz,</hi> he ſet out at the head of fifty Gentlemen very richly
+dreſſed, and bravely mounted, and went to meet Count <hi>Serini,</hi> as
+far as <hi>Puttow,</hi> which is the laſt
+<pb n="35" facs="tcp:42268:21"/>Town of <hi>Stiria,</hi> towards
+<hi>Croa<g ref="char:EOLhyphen"/>tia.</hi> He then conducted this lovely Company, which came to viſit
+him, to <hi>Krantzfield,</hi> al<g ref="char:EOLhyphen"/>ways riding by the Coach ſide, entertaining
+the Ladies. During the eight days which Count <hi>Serini</hi> remained at this
+Caſtle, <hi>Tachtembach</hi> invented every day ſome new Divertiſement,
+ſometimes Hunting, another time Fiſhing, or Hawking; ſometimes the
+wreſtling of Peaſants, or the running of Boat-men at each other upon a
+great Canal; giving every Night a Play and a Ball, with very pleaſant
+Maſquerades and Muſick in <hi>Recitativo.</hi> I do not mention good Chear,
+that be<g ref="char:EOLhyphen"/>ing the uſual Regale of the <hi>Ger<g ref="char:EOLhyphen"/>mans;</hi> and it may be ſaid,
+that there was never ſeen ſo great
+<pb n="36" facs="tcp:42268:22"/>an abundance, and ſo many Delicacies on the
+Emperour's Table, as there were at <hi>Krantz<g ref="char:EOLhyphen"/>field,</hi> whilſt this
+entertainment laſted. But <hi>Tachtembach,</hi> lo<g ref="char:EOLhyphen"/>ving Debauchery a little
+too much, when the Ladies were retired to their Chambers, they fell to
+drinking, which they continued the greateſt part of the Night. It is eaſie
+to ima<g ref="char:EOLhyphen"/>gine, that after exceſſes of this kind, <hi>Tachtembach</hi> could
+not make his Court agreeably to his Miſtreſs, and that he choſe rather to
+abſent himſelf from her, than let her perceive his ſighs ſmelled too
+much of Wine.</p>
+            <p>In the height of all theſe Diverſions, <hi>Aurora
+Veronica</hi> be<g ref="char:EOLhyphen"/>gan to be weary of <hi>Krantzfield,</hi>
+               <pb n="37" facs="tcp:42268:22"/>whether becauſe the behaviour of
+<hi>Tachtembach</hi> was unplea<g ref="char:EOLhyphen"/>ſing to her, or that ſhe was im<g ref="char:EOLhyphen"/>patient to
+ſee <hi>Teckeli</hi> again. She ſaid every moment to the Counteſs, that
+the ſeaſon of the Waters was going over, and prevailed with her at laſt
+to go to <hi>Drontheim.</hi> She found there <hi>Teckeli,</hi> who was one of
+the firſt come thither, and who was as much in love as at
+<hi>Lapſi<g ref="char:EOLhyphen"/>na;</hi> he complained of her ha<g ref="char:EOLhyphen"/>ving deferred coming ſo long,
+but ſhe obligingly gave him to underſtand, that if the day of her departure
+had depended up<g ref="char:EOLhyphen"/>on her own will, ſhe would not have ſtayed ſo long from
+thence. Prince <hi>Ragotski</hi> was alſo come thither, with the Princeſs
+his Mother, and having heard of the arrival of the Counteſs of
+<pb n="38" facs="tcp:42268:23"/>
+               <hi>Serini,</hi> he went to give her a viſit;
+he was not leſs Charmed with the Beauty and the Wit of this young Lady, than
+the other Lords which had ſeen her, ſaying, like a Courtier, to theſe
+Ladies, that although it might make him paſs for an undutiful Son, he could
+not be ſorry for the troubles which this Journey coſt to his Mo<g ref="char:EOLhyphen"/>ther,
+ſince they had furniſht him with an opportunity of making ſo agreeable an
+ac<g ref="char:EOLhyphen"/>quaintance; they rallied a long time upon the effect of the Waters: The
+Counteſs ſaid, that ſhe was of opinion, that the Diverſions of theſe
+places, where they went to drink them, contributed more to the reſtoring of
+Health, than the vertue of them. Prince <hi>Ragot<g ref="char:EOLhyphen"/>ski</hi>
+               <pb n="39" facs="tcp:42268:23"/>added, that he very much doubted, whether the
+coldneſs of the Vitriol, with which the Waters were tinged, would be able to
+put out that flame, with which he of late found himſelf conſumed. The
+Counteſs ral<g ref="char:EOLhyphen"/>lied this Prince, for this plea<g ref="char:EOLhyphen"/>ſant way of declaring his
+Love, and told him, that certainly he was very eaſie to be inflamed, if any
+fair Lady had already kindled in his Heart ſo great a Flame. But <hi>Aurora
+Veronica</hi> did not concern her ſelf in this Converſation, and ſeemed
+al<g ref="char:EOLhyphen"/>ways very reſerved. After <hi>Ragotski</hi> was gone, the Coun<g ref="char:EOLhyphen"/>teſs
+asked her Daughter, why ſhe had been ſo ſerious, and commanded her to
+look upon this Prince as a Man that was deſigned by her Relations to be her
+Husband.</p>
+            <pb n="40" facs="tcp:42268:24"/>
+            <p>Lady <hi>Veronica</hi> was ex<g ref="char:EOLhyphen"/>treamly ſurprized at her Mo<g ref="char:EOLhyphen"/>ther's
+diſcourſe, and not being willing to diſcover to her her real thoughts,
+ſhe made ſome ſlight indiſpoſition her excuſe. So ſoon as ſhe
+could have op<g ref="char:EOLhyphen"/>portunity of diſcourſing with <hi>Teckeli</hi> in private,
+ſhe did not fail of letting him know what force they intended to put up<g ref="char:EOLhyphen"/>on
+her inclinations; but ſhe not engaging her ſelf ſo far as to diſobey
+her Fathers orders, the Count accuſed her for being more ſenſible of
+Ambition than Love, and ſwore to her, that if ſhe would always be faith<g ref="char:EOLhyphen"/>ful
+to him, he would ſet a Crown upon her Head, other<g ref="char:EOLhyphen"/>wiſe he would dye in the
+exe<g ref="char:EOLhyphen"/>cution of his deſign. But al<g ref="char:EOLhyphen"/>though
+<pb n="41" facs="tcp:42268:24"/>he ſaid at the ſame time to her, the moſt
+paſſionate things in the World, he could obtain nothing more of her.</p>
+            <p>
+               <hi>Ragotski,</hi> whoſe paſſion grew greater every moment,
+did not fail of asking Lady <hi>Ve<g ref="char:EOLhyphen"/>ronica,</hi> the firſt time he had the
+opportunity of diſcourſing with her in private, whether ſhe would give
+any ear to his Suit, and whether ſhe would allow him to make his
+Propo<g ref="char:EOLhyphen"/>ſitions to her Father? Although the amiable <hi>Veronica</hi>
+anſwered him with great indifferency; yet he ſpoke to Count <hi>Serini</hi>
+concerning this Affair, who ſeemed to him, to be very glad that he ſhould
+ſeek his Al<g ref="char:EOLhyphen"/>liance; that he could not let him have his Daughter, unleſs
+<pb n="42" facs="tcp:42268:25"/>he would enter into the League which was made
+againſt the Em<g ref="char:EOLhyphen"/>perour, and promiſed him, that he would ſeiſe upon
+<hi>Mencatz,</hi> and of his Fathers Treaſures, which was extreamly
+neceſſa<g ref="char:EOLhyphen"/>ry to make ſo great a deſign ſucceed. <hi>Ragotski</hi> was
+too much in Love, to refuſe any thing to Count <hi>Serini;</hi> he promiſed
+him to follow blind<g ref="char:EOLhyphen"/>ly his Orders; and being aſſu<g ref="char:EOLhyphen"/>red of his Conſent to
+the Mar<g ref="char:EOLhyphen"/>riage of his Daughter, he went to make the ſame Propoſition to the
+Princeſs his Mother, who knowing the advantages that would accrue to her Son,
+by this alliance, eaſily conſented to it. It is true, ſhe knew no<g ref="char:EOLhyphen"/>thing
+of the Terms which Count <hi>Serini</hi> had impoſed up<g ref="char:EOLhyphen"/>on her Son, which had
+ſhe
+<pb n="43" facs="tcp:42268:25"/>done, ſhe would never have a<g ref="char:EOLhyphen"/>greed to them,
+ſhe being entire<g ref="char:EOLhyphen"/>ly of the Emperour's Party.</p>
+            <p>
+               <hi>Ragotski,</hi> whoſe Love could not endure any delay, gave
+an account to the Father of <hi>Vero<g ref="char:EOLhyphen"/>nica,</hi> of the thoughts which he found
+his Mother had, and deſired him he would not de<g ref="char:EOLhyphen"/>fer his happineſs any
+longer. The Count, to ſatisfie him, ſpoke immediately to his Daughter,
+telling her of the engagement he had lately made with <hi>Ragotski,</hi> and
+commanded her to diſpoſe her ſelf to Marry him within three days. Lady
+<hi>Veronica</hi> endeavoured to make ſome oppoſition, but the Count
+ſpoke to her with ſo much Au<g ref="char:EOLhyphen"/>thority, that ſhe did not dare any more to
+reſiſt ſuch preſſing
+<pb n="44" facs="tcp:42268:26"/>Orders; all that ſhe could do, was to manage
+a private Con<g ref="char:EOLhyphen"/>ference with <hi>Teckeli,</hi> to let him know the trouble it was
+to her, to loſe him. But this Count perceived, through all the marks of her
+Love, that the Quality which <hi>Ragotski</hi> would by marrying her, make her
+poſſeſs, would ſoon comfort her for the loſs of a beloved Lover.</p>
+            <p>
+               <hi>Ragotski</hi>'s Marriage was per<g ref="char:EOLhyphen"/>formed without pomp. Count
+<hi>Serini</hi> not thinking it proper that this Marriage ſhould be publick,
+until he had put his other deſigns into a condition of ſucceeding happily;
+but the <hi>Palatine</hi>'s Death, which hapned a little while afterwards,
+ſoon broke all their Meaſures. So ſoon as <hi>Ragotski</hi> had brought
+<pb n="45" facs="tcp:42268:26"/>his Wife home to <hi>Schachthorn,</hi> where
+ſhe was to paſs the Win<g ref="char:EOLhyphen"/>ter; he took his meaſure how to make himſelf
+Maſter of <hi>Men<g ref="char:EOLhyphen"/>catz,</hi> but he was not able to ſurprize that place, as
+he was reſolved, nor to ſeize upon his Fathers Treaſures, becauſe his
+Mother, having diſcovered his deſign, got thither before him, and took ſo
+well her precauti<g ref="char:EOLhyphen"/>on, that ſhe even hindred him from being received into the
+Town. This enterpriſe failing, made an end of putting the Con<g ref="char:EOLhyphen"/>ſpirators
+into diſorder.</p>
+            <p>Before this News was brought to Count <hi>Serini,
+Tach<g ref="char:EOLhyphen"/>tembach</hi> prevailed with him, to come to paſs the <hi>Carnaval</hi>
+at <hi>Gratz,</hi> and to bring with him thither, the Counteſs and
+<pb n="46" facs="tcp:42268:27"/>the Princeſs <hi>Ragotski,</hi> of whoſe
+marriage he was yet ignorant. Count <hi>Serini,</hi> would not refuſe him the
+ſatisfaction, came in<g ref="char:EOLhyphen"/>to <hi>Stiria</hi> on the firſt <hi>Wedneſ<g ref="char:EOLhyphen"/>day</hi>
+of the <hi>Carnaval. Tachtem<g ref="char:EOLhyphen"/>bach,</hi> who was always very magnificent, did,
+as he was uſed, endeavour to divert his Gueſt, the beſt that was
+poſ<g ref="char:EOLhyphen"/>ſible for him to do, and made one of the laſt days of the
+<hi>Car<g ref="char:EOLhyphen"/>naval</hi> a <hi>Wirſchaaf,</hi> which is a ſort of Maſquerade,
+wherein every one puts on the Habit of a different Nation, or Profeſſion.
+<hi>Tachtembach</hi> was in the Habit of a <hi>Mountebank,</hi> and
+diſtributed to the Ladies of the Hall, Bills, wherein were written Verſes,
+which diſcovered his Love.</p>
+            <p>All theſe Diverſions were
+<pb n="47" facs="tcp:42268:27"/>diſturbed by the coming in of a Gentleman,
+whom Prince <hi>Ragotski</hi> had diſpatched to Count <hi>Serini,</hi> to
+acquaint him with the unfortunate ſucceſs of his Enterpriſe. Count
+<hi>Seri<g ref="char:EOLhyphen"/>ni</hi> immediately took his leave of <hi>Tachtembach,</hi> to return
+to <hi>Scachthorn,</hi> that he might give out his orders, for the raiſing of
+Forces, recommending very earneſtly to this Count, his making himſelf
+Maſter of <hi>Gratz. Tachtembach,</hi> in his turn, being ignorant of Prince
+<hi>Ragotski</hi>'s marriage with Count <hi>Serini</hi>'s Daughter, deſir'd
+this Count to reſerve for him this lovely Perſon, as his reward, for what
+he was going to undertake for the ſervice of the Party; to which Count
+<hi>Serini</hi> anſwered, that he ſhould always have a
+<pb n="48" facs="tcp:42268:28"/>grateful ſenſe of what he ſhould do upon
+this occaſion, and that he would neglect nothing which might contribute
+to<g ref="char:EOLhyphen"/>wards his ſatisfaction. <hi>Tachtem<g ref="char:EOLhyphen"/>bach,</hi> who was of no very quick
+Parts, took this civility for current, and believed that he might ground upon
+theſe words a certain hope of ſeeing his love gratified. Whilſt Count
+<hi>Serini</hi> prepared all things which were neceſſary for the begin<g ref="char:EOLhyphen"/>ning
+of the War in the Spring, <hi>Tachtembach</hi> was not aſleep, he ſent to
+Count <hi>Serini</hi> his firſt <hi>Valet de Chambre,</hi> by whom he let him
+know, that he in<g ref="char:EOLhyphen"/>tended within a fortnight, to come, towards the cloſing of
+the Evening, with five Wag<g ref="char:EOLhyphen"/>gons filled with <hi>Turks,</hi> to the Gates of
+<hi>Gratz;</hi> and that as
+<pb n="49" facs="tcp:42268:28"/>ſoon as one had paſſed over the Bridge,
+one of the wheels ſhould fall off, and overturn the Waggon, to ſtop the
+Gate, and hinder it from being ſhut, and that at the ſame time the
+<hi>Turks</hi> ſhould come out of the other Waggons, and put to the Sword,
+all thoſe they ſhould find in the <hi>Corps de Garde;</hi> but that it
+might not be poſſible for the Undertaking to fail, it was neceſſary for
+him to ad<g ref="char:EOLhyphen"/>vance with ſome Forces which he ſhould conceal near the Town,
+ſtaying till he had no<g ref="char:EOLhyphen"/>tice of the ſucceſs of this great Deſign.</p>
+            <p>Count <hi>Serini</hi> promiſed this <hi>Valet de Chambre,</hi>
+to do what his Maſter deſired, and they agreed together of all the
+Cir<g ref="char:EOLhyphen"/>cumſtances.
+<pb n="50" facs="tcp:42268:29"/>But by misfortune this young man had heard,
+from ſome of Count <hi>Serini's</hi> Servants, of his Daughter's mar<g ref="char:EOLhyphen"/>riage
+with Prince <hi>Ragotski,</hi> and informed <hi>Tachtembach</hi> of it. This
+Brutiſh Count, inſtead of re<g ref="char:EOLhyphen"/>warding the Honeſty of this Servant, in the
+deſpair into which this news had caſt him, ſent him to Priſon,
+accuſing him of Robbery, to revenge himſelf upon him, for the de<g ref="char:EOLhyphen"/>ceit which
+had been uſed to<g ref="char:EOLhyphen"/>wards him, as if he had been guilty of it.</p>
+            <p>This unfortunate young man, after having ſuffered his
+im<g ref="char:EOLhyphen"/>priſonment ſome days, hoping that his Maſter would come back from his
+injuſtice; but when he ſaw that he continu<g ref="char:EOLhyphen"/>ed
+<pb n="51" facs="tcp:42268:29"/>to perſecute him, he reſol<g ref="char:EOLhyphen"/>ved to recover
+his liberty, by his deſtruction; and having yet about him, the inſtruction
+which <hi>Tachtembach</hi> had given him, written with his own hand, when he
+had ſent him to <hi>Schachthorn,</hi> he put them into the hands of
+<hi>Francis Will,</hi> Country Provoſt, who gave it to Barron <hi>Oker,</hi>
+Chancellor of the Kingdom, and by theſe means the Emperour was in<g ref="char:EOLhyphen"/>formed of
+the Secret of the whole Conſpiracy; his Impe<g ref="char:EOLhyphen"/>rial Majeſty immediately
+ſent Orders to <hi>Oker,</hi> to feize upon the Perſon of
+<hi>Tachtembach,</hi> which he did in this manner. This Count, who
+ſuſpected no<g ref="char:EOLhyphen"/>thing, returned to <hi>Gratz,</hi> and going to take his Seat
+in the Soveraign Council, as he was
+<pb n="52" facs="tcp:42268:30"/>accuſtomed to do, Preſident <hi>Pu<g ref="char:EOLhyphen"/>nii</hi>
+ſent the Clerk to amuze him in the Anti-chamber, wai<g ref="char:EOLhyphen"/>ting till he had taken
+the meaſures neceſſary for the ſeiz<g ref="char:EOLhyphen"/>ing of his Perſon; a little while
+afterwards, the Judge of the Town came to demand his Sword, having made ten or
+twelve Soldiers which had been ſent for, conveyed him to the Caſtle, where
+he was kept very ſtrictly.</p>
+            <p>As ſoon as the Emperor knew that <hi>Tachtembach</hi> was in
+hold, he ſent General <hi>Spankaw</hi> with 6000 men, two pieces of great
+Canon, and 16 Field pieces, with Orders to march againſt Count
+<hi>Serini,</hi> and to take the Caſtle of <hi>Schachthorn;</hi> this Count
+having notice of it,
+<pb n="53" facs="tcp:42268:30"/>ſent a Gentleman to <hi>Vienna,</hi> to give
+his Imperial Majeſty aſſurances of his Loyalty; but although his
+ſubmiſſion was re<g ref="char:EOLhyphen"/>ceived, <hi>Spankaw</hi> did notwith<g ref="char:EOLhyphen"/>ſtanding
+beſiege <hi>Scachthorn;</hi> Count <hi>Serini</hi> and <hi>Frangipani</hi>
+his Brother-in-Law, not find<g ref="char:EOLhyphen"/>ing themſelves in a Condition to make any
+defence, left all that they had in the Town, and went out of it by a ſecret
+Salli-Port, and went towards <hi>Vienna,</hi> hoping to clear them<g ref="char:EOLhyphen"/>ſelves;
+where they were no ſooner arrived, but their Per<g ref="char:EOLhyphen"/>ſons were ſeized, and
+ſent Pri<g ref="char:EOLhyphen"/>ſoners to the Caſtle, from whence they were afterwards conveyed
+to <hi>Niewſtadt.</hi>
+            </p>
+            <p>In the mean time, General <hi>Spankaw,</hi> having taken
+<hi>Scach<g ref="char:EOLhyphen"/>thorn,</hi> ſeized upon all the goods
+<pb n="54" facs="tcp:42268:31"/>of theſe two impriſoned Counts,
+impriſoning the Counteſs of <hi>Serini,</hi> and the Princeſs her
+Daughter; but Prince <hi>Ragotski</hi> having made his peace, by the
+interceſſion of his Mother, who had very good intereſt in the Imperial
+Court, obtained his Wifes liberty, upon Conditi<g ref="char:EOLhyphen"/>on that he would receive a
+<hi>German</hi> Garriſon in <hi>Mencatz.</hi>
+            </p>
+            <p>Count <hi>Teckely</hi>'s Father died during theſe revolutions in
+his Caſtle of <hi>Kuz,</hi> but it being known that he had a hand in the
+Conſpiracy, his Son was, notwithſtanding his Death be<g ref="char:EOLhyphen"/>ſieged in this
+Place, but ſo ſoon as he heard of the March of the Imperial Army, he
+retrea<g ref="char:EOLhyphen"/>ted by Night to <hi>Licora,</hi> an important place in upper
+<hi>Hun<g ref="char:EOLhyphen"/>gary,</hi> upon the Frontiers of
+<pb n="55" facs="tcp:42268:31"/>
+               <hi>Tranſilvania,</hi> with <hi>Kirzi,
+Para<g ref="char:EOLhyphen"/>gotzi</hi> and <hi>Baragotzi,</hi> who were three of the braveſt men in
+this Kingdom, and of the ſame Age with <hi>Teckeli,</hi> they defended
+themſelves like Lyons, but a <hi>Bombe</hi> having ſet fire to their
+Magazeen of Powder, and <hi>Baragotzi</hi> being taken in a ſal<g ref="char:EOLhyphen"/>ley, the two
+others eſcaped with <hi>Teckely;</hi> and after having mar<g ref="char:EOLhyphen"/>ched in the dark
+through pri<g ref="char:EOLhyphen"/>vate ways, without meeting any ill accident, they arrived at
+<hi>Hue,</hi> a ſtrong Caſtle at the entrance into <hi>Tranſilvania,</hi>
+and after having remained ſome days, they went for Sanctuary to Prince
+<hi>Abafti</hi>'s Court, who was then Soveraign of this Coun<g ref="char:EOLhyphen"/>trey, and under
+the Protecti<g ref="char:EOLhyphen"/>on of the <hi>Turk.</hi>
+            </p>
+            <p>There remained now no
+<pb n="56" facs="tcp:42268:32"/>place but <hi>Murano,</hi> where the
+<hi>Palatine</hi>'s Widow had lived, ſince the death of her Hus<g ref="char:EOLhyphen"/>band, with
+her Son, and Count <hi>Paul Weſſelini</hi> her Brother-in-Law, the Emperor
+ſent Prince <hi>Charles</hi> of <hi>Lorrain</hi> to take it; and the two
+<hi>Weſſelini's</hi> not finding themſelves in a Con<g ref="char:EOLhyphen"/>dition to hold out a
+Siege, re<g ref="char:EOLhyphen"/>tired alſo into <hi>Tranſilvania,</hi> to Prince
+<hi>Abaftie</hi>'s Court, and the <hi>Palatine's</hi> Widow opened the Gates of
+the Town to the Im<g ref="char:EOLhyphen"/>perial Forces.</p>
+            <p>The Troubles of <hi>Hungary</hi> having been thus appeaſed, the
+Counts <hi>de Serini</hi> and <hi>Frangipa<g ref="char:EOLhyphen"/>ni</hi> were proſecuted, and at
+laſt ſentenced to loſe their Heads. There were two Jeſuits ſent to
+them, to prepare them for death, and Count <hi>Serini</hi> was
+<pb n="57" facs="tcp:42268:32"/>very much amazed, to know one of them to be
+<hi>Joſhua,</hi> who had been in love with his Daughter, and fought for her
+with the <hi>Palatine</hi>'s Son. They could neither of them hold from Tears,
+ſeeing each other after ſo long an Abſence. Count <hi>Serini</hi>
+intruſted, before he went to Execution, <hi>Joſhua</hi> with a Letter to
+carry to his Wife, in which he bad her farewel, and this <hi>Monk</hi> took it
+from him by conſent of the Imperial Commiſſioners, who were ſent to
+<hi>Larolſtadt</hi> to ſee the Sen<g ref="char:EOLhyphen"/>tence put in Execution upon the two
+Counts.</p>
+            <p>Immediately after their Exe<g ref="char:EOLhyphen"/>cution, Father <hi>Joſhua</hi> went
+by his Superiours Permiſſion to <hi>Gratz,</hi> where the Counteſs was a
+Priſoner, and ſhe was not leſs
+<pb n="58" facs="tcp:42268:33"/>ſurprized, when ſhe knew this Monk, than
+ſhe was at his tel<g ref="char:EOLhyphen"/>ling her the Tragical end of her Husband. Father
+<hi>Joſhua</hi> lived at <hi>Gratz,</hi> until the death of
+<hi>Tachtembach,</hi> who had a like Fate with that of the Counts. He alſo
+entruſted this Jeſuite with a Letter to Princeſs <hi>Bagotski,</hi> the
+Contents where<g ref="char:EOLhyphen"/>of were as follow.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>I <hi>Am now going to dye for ha<g ref="char:EOLhyphen"/>ving obeyed you with too much
+exactneſs. I ſhould give up my Life without reluctancy, if I were
+aſſured you were ſa<g ref="char:EOLhyphen"/>tisfied; but I can ſcarce believe you love
+Greatneſs ſo much as to think it a happineſs, when it coſts you a
+Father and an <g ref="char:V">Ʋ</g>ncle. I will not put amongſt the misfortunes, which this
+un<g ref="char:EOLhyphen"/>fortunate
+<pb n="59" facs="tcp:42268:33"/>Conſpiracy has cauſed to you, the loſs
+of a Lover; but you would not be to be pitied wholly, if Prince</hi> Ragotski
+<hi>has for you the ſtrong Paſſion which has been preſerved for you to
+the Grave, notwithſtanding your Infidelity, by the unfortunate</hi>
+                  </p>
+                  <closer>
+                     <signed>Tachtembach.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Immediately after the Exe<g ref="char:EOLhyphen"/>cution of this Count, Father
+<hi>Joſhua</hi> went to carry the Let<g ref="char:EOLhyphen"/>ter to Princeſs <hi>Ragotski,</hi>
+who was ſtill at <hi>Mencatz,</hi> he found her yet in an extream
+afflicti<g ref="char:EOLhyphen"/>on, for the Death of her Fa<g ref="char:EOLhyphen"/>ther. <hi>Tachtembach</hi>'s Letter
+re<g ref="char:EOLhyphen"/>newed yet more her Grief; and ſhe anſwered <hi>Joſhua</hi> only by a
+Torrent of Tears; ſhe was ſo taken up by her Grief,
+<pb n="60" facs="tcp:42268:34"/>that ſhe had looked upon this Jeſuite
+without knowing him, until after the firſt Motions of her Paſſion were
+paſſed, ſhe re<g ref="char:EOLhyphen"/>membred his Face, and asked him how this change of his
+Condition had happened. <hi>It was, Madam,</hi> replied <hi>Joſhua, becauſe
+I was not able to prevail with you to love me; but you had rea<g ref="char:EOLhyphen"/>ſon not to
+leſſen your ſelf ſo much as to ſtoop to ſuch a Man as I am, ſince
+Fortune reſerved you for a Quality, to which it was not in my Power to
+raiſe you. Alas!</hi> replied the Princeſs ſighing, <hi>it is not
+greatneſs which makes our happineſs I am of opini<g ref="char:EOLhyphen"/>on that the condition of
+a Shep<g ref="char:EOLhyphen"/>herdeſs is to be preferr'd before mine. Is it Prince</hi> Ragotski,
+<hi>replied</hi> Joſhua <hi>that—This un<g ref="char:EOLhyphen"/>juſt Husband,</hi> continued
+the
+<pb n="61" facs="tcp:42268:34"/>Princeſs, interrupting him, <hi>has uſed me
+with the greateſt ſcorn, ſince my Father's Misfortunes. He keeps always
+Miſtreſſes, and I dare not complain; and the Princeſs his Mother is
+always up braiding me with my being the Daughter of a Rebel; and far from
+ſweetning this Princes mind, when he is angry with me, ſhe foments the
+Diviſion, and feeds a flame, which ſhe ought to endeavour to
+extinguiſh.</hi> Fa<g ref="char:EOLhyphen"/>ther <hi>Joſhua</hi> endeavoured as much as he could to
+comfort the Princeſs; and the Prince her Husband being ſick, he was
+reſolved not to leave her, until he ſaw the ſucceſs of this
+ſick<g ref="char:EOLhyphen"/>neſs. <hi>Ragotski,</hi> after having languiſhed two Months, at
+length died with great trouble to leave his Wife, whoſe Ver<g ref="char:EOLhyphen"/>tue
+<pb n="62" facs="tcp:42268:35"/>he very well knew, by the care ſhe took of
+him, during the whole time that he kept his Bed by reaſon of his
+ſick<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>After the Death of <hi>Ragotski,</hi> the Princeſs his Widow
+rekind<g ref="char:EOLhyphen"/>led the Fires of <hi>Joſhua</hi>'s Love. He had not yet profeſſed
+him<g ref="char:EOLhyphen"/>ſelf, according to the Cuſtom of the Jeſuits, who do not make their
+Profeſſion till very late. She allowed him to hope ſhe would reward his
+Conſtan<g ref="char:EOLhyphen"/>cy, upon the Condition he would revenge the Death of her Father.
+<hi>Joſhua,</hi> flattered with theſe ſweet hopes, promi<g ref="char:EOLhyphen"/>ſed to
+undertake any thing to ſatisfie her; and they reſolved together, that he
+ſhould go to the Heads of the Male-con<g ref="char:EOLhyphen"/>tents, which were retired,
+<pb n="63" facs="tcp:42268:35"/>and that he ſhould ſeek out with them the
+means of rai<g ref="char:EOLhyphen"/>ſing an oppreſſed Party.</p>
+            <p>The Princeſs gave to <hi>Joſhua</hi> all the Money and Jewels
+which ſhe had, and he depar<g ref="char:EOLhyphen"/>ted immediately for <hi>Mencatz,</hi> to ſet on
+foot again this great Deſign. He bought, at the next Town, a good Horfe, and
+Arms, with Cloaths fit for a Souldier, and went with all ſpeed to <hi>Alba
+Julia,</hi> where Prince <hi>Abaſti</hi> commonly kept his Court.</p>
+            <p>He there found all the Male<g ref="char:EOLhyphen"/>contents, which were retired thither,
+and repreſented to them ſo well the diſpoſition, wherein the People of
+<hi>Hunga<g ref="char:EOLhyphen"/>ry</hi> were to recover their Free<g ref="char:EOLhyphen"/>dome, and eſpecially the
+Pro<g ref="char:EOLhyphen"/>teſtants, that he engaged them
+<pb n="64" facs="tcp:42268:36"/>to take up Arms. Prince <hi>A<g ref="char:EOLhyphen"/>bafti</hi>
+allowed them to raiſe Forces in his Countries. Count <hi>Paul
+Weſſelini</hi> was named to Command the Army. The Count <hi>de Forvall</hi>
+took upon him the Journey to <hi>Peland,</hi> from whence he hoped to bring
+conſiderable Succours. For his Majeſty of <hi>Poland</hi> having made Peace
+with the Grand Signior, had disbanded a great many of his Forces.
+<hi>Joſhua</hi> took upon him the charge of going to <hi>Bu<g ref="char:EOLhyphen"/>da,</hi> there to
+get from the <hi>Baſſa</hi> ſome <hi>Turks.</hi> Count <hi>Teckeli</hi>
+remained alone at <hi>Alba Julia,</hi> telling his Companions, that he ſhould
+be moſt uſeful to them in <hi>Tranſilvania,</hi> becauſe he ho<g ref="char:EOLhyphen"/>ped to
+diſpoſe Prince <hi>Abafti,</hi> by the Intereſt he had gained with him,
+to declare War againſt
+<pb n="65" facs="tcp:42268:36"/>the Emperour. In effect, he repreſented to
+him that the late Prince <hi>Ragotski</hi> had yielded up to the Emperour, by
+the laſt Treaty of Peace which they had made, the Countries of
+<hi>Zathmar</hi> and <hi>Kalo,</hi> which were Ancient Dependants upon
+<hi>Tranſilvania,</hi> and prevailed with him to ſend a famous Em<g ref="char:EOLhyphen"/>baſſy
+to the Emperour to de<g ref="char:EOLhyphen"/>mand them, with Proteſtation, that in caſe they were
+refuſed to him, he would put himſelf into a Poſture to recover them by
+force of Arms.</p>
+            <p>
+               <hi>Joſhua</hi> being returned from <hi>Buda,</hi> after having
+joyned the <hi>Turks,</hi> ſent by the <hi>Baſſa</hi> to re-inforce the
+<hi>Tranſilvanians</hi> and <hi>Hungarians,</hi> which
+<hi>Weſſe<g ref="char:EOLhyphen"/>lini</hi> Commanded, reſolved to return to <hi>Mencatz,</hi> to
+give an
+<pb n="66" facs="tcp:42268:37"/>account to Princeſs <hi>Ragotski</hi> of what
+he had done, in the exe<g ref="char:EOLhyphen"/>cution of her Orders; and that he might have the
+eaſier acceſs to her, he took upon him again the Habit of a Je<g ref="char:EOLhyphen"/>ſuit. He
+told her firſt what he had done at <hi>Alba Julia;</hi> but he not ſpeaking
+of <hi>Teckeli,</hi> ſhe inquired for him. <hi>Joſhua,</hi> who had heard
+of the Inclination which ſhe had ſhewn to this Count, before her Marriage,
+told her maliciouſly, that he was kept at <hi>Alba Julia,</hi> by the Charms
+of Princeſs <hi>Euphroſina,</hi> Daughter to Prince <hi>Abafti;</hi> and
+that the report was in that Court, that he would ſhortly be Son-in-Law to his
+Maſter. Princeſs <hi>Ragotski</hi> was ſtruck with the perfideouſneſs
+of her Lover, that ſhe fell into a deep
+<pb n="67" facs="tcp:42268:37"/>ſtudy, out of which it was im<g ref="char:EOLhyphen"/>poſſible
+for <hi>Joſhua</hi> to reſcue her all that day; and even after<g ref="char:EOLhyphen"/>wards ſhe
+was conſtrained, by his Preſence, that obliged him to leave
+<hi>Mencatz,</hi> whether be<g ref="char:EOLhyphen"/>cauſe ſhe was not willing to have him a
+Witneſs of her weakneſs, or that ſhe ſuſpect<g ref="char:EOLhyphen"/>ed him for having
+inven<g ref="char:EOLhyphen"/>ted this ſtory to deſtroy in her mind a Rival that was loved by her.
+<hi>Joſhua,</hi> who was well aſſured that this news would be confirmed
+from ſeve<g ref="char:EOLhyphen"/>ral places, this report being very common at <hi>Alba Julia,</hi>
+returned to the Army to give her leiſure to take her reſoluti<g ref="char:EOLhyphen"/>on.</p>
+            <p>Count <hi>Teckeli</hi> had nothing to do at <hi>Alba Julia,</hi>
+until the Ambaſſador which Prince <hi>A<g ref="char:EOLhyphen"/>bafti</hi>
+               <pb n="68" facs="tcp:42268:38"/>had ſent to the Emperor, was returned, ſo
+that he reſol<g ref="char:EOLhyphen"/>ved to take this time, to go to ſee Princeſs
+<hi>Ragotski,</hi> who was not leſs dear to him, than be<g ref="char:EOLhyphen"/>fore her Marriage.
+When he was arrived at <hi>Licora,</hi> which is not far from <hi>Mencatz,</hi>
+he dreſſed himſelf like a Pedlar, and having, put a little Pack upon his
+Back, and immedi<g ref="char:EOLhyphen"/>ately went to the Town, where his Princeſs moſt com<g ref="char:EOLhyphen"/>monly
+lived. He found ways to be admitted into the Palace, and having opened his Pack
+and having ſhewed her ſeveral Toyes, he preſented to her, her Picture in
+Minature, which ſhe had given to him at his departure from
+<hi>Lapſina,</hi> and which he had enchaſed in a Golden Box, ſet with
+Diamonds
+<pb n="69" facs="tcp:42268:38"/>of great value. The Princeſs ſurprized with
+ſo extraordina<g ref="char:EOLhyphen"/>ry an accident, looked earneſt<g ref="char:EOLhyphen"/>ly upon the Pedlar, and knew
+him under his Diſguiſe, but ſhe pretended ſhe did not, and asked him
+from whence he had that Picture? <hi>Teckeli,</hi> taking at the ſame time
+out of his Pack, his own Picture, which he had cauſed to be drawn at <hi>Alba
+Julia</hi> for him, told her that the Gentleman, whoſe Picture that was, had
+given him the Picture ſhe enquired about. Where is at preſent;
+<hi>re<g ref="char:EOLhyphen"/>replied the Princeſs, preten<g ref="char:EOLhyphen"/>ding ſtill not to know him,</hi> he
+that made you ſo great a Preſent? <hi>He is at</hi> Alba Julia, replied the
+Pedlar, <hi>preparing to enter into</hi> Hungary <hi>with a ſtrong Army, to
+revenge the
+<pb n="70" facs="tcp:42268:39"/>death of Count</hi> Serini. <hi>Say
+ra<g ref="char:EOLhyphen"/>ther,</hi> replied the Princeſs, <hi>he is at the feet of Princeſs</hi>
+Euphroſi<g ref="char:EOLhyphen"/>na; <hi>that, forgetting what he ows to his Honour, her Perſon,
+and his own Engagements, he ſwears to her, that he lives for her. I know not
+Madam,</hi> replied the Count angrily, <hi>who has thus mis-inform'd you; but
+if a poor Pedlar may ſpeak of the Affairs of the Court, he has ſtayed
+at</hi> Alba Julia, <hi>ſolely for the Ser<g ref="char:EOLhyphen"/>vice of his Party, and for the
+beautiful Perſon, which trium<g ref="char:EOLhyphen"/>phed over his Heart in</hi> Hun<g ref="char:EOLhyphen"/>gary, <hi>who
+is yet Miſtreſs of it.</hi> Whilſt <hi>Teckeli</hi> was ſpeaking thus,
+the Princeſs, who had looked over all his Pictures, ſhe fixed her Eyes upon
+that of Princeſs <hi>Euphroſina,</hi> and ask<g ref="char:EOLhyphen"/>ed him the Name of the
+Perſon
+<pb n="71" facs="tcp:42268:39"/>whoſe Picture that was. <hi>This is,</hi>
+replied the Pedlar, <hi>the Per<g ref="char:EOLhyphen"/>ſon, who you ſay has made the Gentleman, of
+whom we have now ſpoken, falſe.</hi> The Princeſs, without returning any
+anſwer, took this laſt Picture, and ha<g ref="char:EOLhyphen"/>ving given order to one of her
+Maids, to pay the Pedlar for what ſhe had bought, ſhe went into her
+Cloſet, without allowing any body to follow her, and left the Count in a
+Conſternation, hardly to be conceived, unleſs one has lo<g ref="char:EOLhyphen"/>ved as he did. He
+ſtayed a fortnight at <hi>Mencatz,</hi> hoping to find an opportunity of
+con<g ref="char:EOLhyphen"/>verſing with the Princeſs, and juſtifying himſelf; but ſhe took
+ſo much care to avoid him, that all his endeavours were in vain. He
+endeavoured to
+<pb n="72" facs="tcp:42268:40"/>find out in his mind, during his ſtay at
+<hi>Mencatz,</hi> the cauſe of his disfavour, and endeavou<g ref="char:EOLhyphen"/>red to gueſs who
+could have ſowed theſe ſuſpicions in the mind of the Princeſs. He had
+no other Rivals, but <hi>Weſſeli<g ref="char:EOLhyphen"/>ni</hi> and <hi>Joſhua,</hi> and
+therefore he could accuſe but one of them, and he reſolved to clear his
+doubts, as ſoon as he came to the Army.</p>
+            <p>Whilſt he was agitated with theſe different thoughts, the
+Princeſs was not in greater quiet. <hi>If the Count,</hi> ſaid ſhe to her
+ſelf, <hi>had any paſſion for the Princeſs</hi> Euphroſina, <hi>he
+would not have come to</hi> Mencatz <hi>in ſo much danger, and in a habit
+ſo unfit for his Quality; and he would not have gone ſo far from her, to
+give ſome Rival the op<g ref="char:EOLhyphen"/>portunity
+<pb n="73" facs="tcp:42268:40"/>of making an advantage by his Abſence.</hi>
+But ſhe took her ſelf up again, a moment afterwards. <hi>Would he be ſo
+guil<g ref="char:EOLhyphen"/>ty, as he ſeems to me, ſhould he be led away by the Charms of the
+Princeſs of</hi> Tranſilva<g ref="char:EOLhyphen"/>nia? <hi>I was married to another, and had
+forſaken him to marry Prince</hi> Ragotski, <hi>after having engaged him in a
+Conſpiracy which had made him loſe all his Eſtate, and had forced him to
+baniſh himſelf from his Countrey. He found in a ſtrange Country a fair
+Perſon, who offered him a Crown together with her Hand. He would have been
+unfurniſh'd of all reaſon, if he had let ſlip ſo fair an opportunity,
+of repa<g ref="char:EOLhyphen"/>ring all his loſſes. And yet ſo ſoon as he hears I am a Widow,
+and in a Condition to diſpoſe of
+<pb n="74" facs="tcp:42268:41"/>my Perſon; he renounces all his fair hopes,
+and comes to make a Sacrifice of them to me, what can I deſire more?</hi>
+            </p>
+            <p>Princeſs <hi>Ragotski</hi> ſetled her ſelf ſo firmly in
+this laſt thought, that ſhe reſolved to explain her ſelf to Count
+<hi>Tecke<g ref="char:EOLhyphen"/>li;</hi> ſhe cauſed him to be looked for in the whole Town, but
+in vain. He had ordered one of his Gentlemen to give him notice at
+<hi>Mencatz,</hi> when the Ambaſſadour, which Prince <hi>Abafti</hi> had
+ſent to the Imperi<g ref="char:EOLhyphen"/>al Court, ſhould return to <hi>Alba Julia.</hi> He heard
+by this Offi<g ref="char:EOLhyphen"/>cer, that the Emperor had re<g ref="char:EOLhyphen"/>fuſed to reſtore the Counties of
+<hi>Zathmar</hi> and <hi>Kalo,</hi> and that they ſtayed only for him, to
+be<g ref="char:EOLhyphen"/>gin the Campagne, which for<g ref="char:EOLhyphen"/>ced him to depart with great ſpeed.</p>
+            <pb n="75" facs="tcp:42268:41"/>
+            <p>So ſoon as he was returned to <hi>Alba Julia,</hi> he made the
+Forces of <hi>Tranſilvania</hi> march, and the firſt of the Acts of
+Ho<g ref="char:EOLhyphen"/>ſtilities which they committed, was the ſiege of <hi>Zathmar;</hi> in
+leſs than a Fortnight, he redu<g ref="char:EOLhyphen"/>ced this Town to ſuch extre<g ref="char:EOLhyphen"/>mity, as would
+have forced it to capitulate, had not Prince <hi>Abafti</hi> ſent him orders
+to come back, to oppoſe one of the greateſt Lords of all
+<hi>Tranſilva<g ref="char:EOLhyphen"/>nia,</hi> called <hi>Pedi Pol;</hi> who ha<g ref="char:EOLhyphen"/>ving been inveſted
+with this Principality by the Grand Seig<g ref="char:EOLhyphen"/>nior, and had made a conſide<g ref="char:EOLhyphen"/>rable
+Party in the Country, which intended to diſpoſſeſs their Soveraign,
+Count <hi>Teckeli</hi> was too grateful, to abandon his <hi>Benefactor</hi> in
+ſo imminent a danger; he no ſooner had no<g ref="char:EOLhyphen"/>tice
+<pb n="76" facs="tcp:42268:42"/>of it, but he raiſed the ſiege of
+<hi>Zathmar,</hi> and retur<g ref="char:EOLhyphen"/>ned to <hi>Tranſilvania,</hi> not only with the
+Army which he com<g ref="char:EOLhyphen"/>manded, but alſo with the Auxiliary Forces, which
+<hi>For<g ref="char:EOLhyphen"/>val</hi> had conducted thither, un<g ref="char:EOLhyphen"/>der the command of the Count of
+<hi>Boham,</hi> and who had newly beaten a Detachement out of the Imperial
+Army, comman<g ref="char:EOLhyphen"/>ded by Major General <hi>Smith.</hi> Count <hi>Teckeli</hi> met
+<hi>Pedi Pol,</hi> going to beſiege <hi>Zebin,</hi> and having charged him,
+without giving him time to know his ſtrength, he put him to ſlight, and
+forced him to retreat into <hi>Walachia,</hi> with the Chancel<g ref="char:EOLhyphen"/>lor
+<hi>Berthlaeus,</hi> who had em<g ref="char:EOLhyphen"/>braced his ſide.</p>
+            <p>It was not enough, that <hi>Teckeli</hi> delivered Prince
+<hi>Abafti</hi>
+               <pb n="77" facs="tcp:42268:42"/>from ſo powerful a Competi<g ref="char:EOLhyphen"/>tour; but it was
+alſo neceſſary to hinder the Grand Signior from taking <hi>Pedi
+Pol's</hi> part. <hi>Teckeli,</hi> who thought nothing impoſſible, when the
+Service of his Friends required any thing, and who had not leſs Skill in
+managing Affairs of the Cloſet, than Valour to beat his Enemies, when he is
+at the Head of an Army, offer<g ref="char:EOLhyphen"/>ed Prince <hi>Abafti</hi> to go to
+<hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> to defend there his Cauſe: His Offers being
+ac<g ref="char:EOLhyphen"/>cepted of, he departed imme<g ref="char:EOLhyphen"/>diately, laden with very rich Preſents for the
+Chief Officers of the <hi>Ottoman</hi> Court.</p>
+            <p>As ſoon as he was arrived at <hi>Conſtantinople,</hi> he
+deſired Au<g ref="char:EOLhyphen"/>dience. The Grand Vizier <hi>Kara Muſtapha,</hi> who was ſo
+<pb n="78" facs="tcp:42268:43"/>pleaſed with his Wit, that af<g ref="char:EOLhyphen"/>ter two or
+three Conferences, he intruſted him with his moſt ſecret Affairs, and
+confeſſed to him that Sultaneſs <hi>Validé,</hi> Mo<g ref="char:EOLhyphen"/>ther to the
+Grand Signior, for whom he had but a bare indif<g ref="char:EOLhyphen"/>ferency, and that he had
+diſ<g ref="char:EOLhyphen"/>poſed of all his Inclinations to the Princeſs <hi>Baſclari,</hi>
+Siſter to his Highneſs, and Widow to <hi>Aſlam Baſſa Beglierby</hi>
+of <hi>Aſia;</hi> but that the Jealouſie of Sul<g ref="char:EOLhyphen"/>taneſs
+<hi>Validé</hi> was an Obſtacle to all his Pleaſures, but that there
+now came into his mind, a way of freeing himſelf from the Importunities of
+this Prin<g ref="char:EOLhyphen"/>ceſs, which was to afford her Love another Object; that for this it
+was neceſſary it ſhould be a Man endowed with the Graces of the Body, as
+well
+<pb n="79" facs="tcp:42268:43"/>as the Charms of the Mind, and that all this
+Concurring in his Perſon, he deſired him to go in his place the night
+following to an aſſignation ap<g ref="char:EOLhyphen"/>pointed with him by the Sul<g ref="char:EOLhyphen"/>taneſs. The
+Propoſition was nice, and he ventured his Life, in caſe he was
+diſcovered, but the deſire of ſo powerful a Mi<g ref="char:EOLhyphen"/>niſter as this was, were
+com<g ref="char:EOLhyphen"/>mands to him.</p>
+            <p>This laſt conſideration out<g ref="char:EOLhyphen"/>weighed the firſt.
+<hi>Teckeli</hi> ſhew<g ref="char:EOLhyphen"/>ed he thought himſelf honou<g ref="char:EOLhyphen"/>red with the Viziers
+truſt, and proteſted he was ready to obey his Commands. This Mini<g ref="char:EOLhyphen"/>ſter
+having given him the In<g ref="char:EOLhyphen"/>ſtructions neceſſary for getting the Doors
+opened, and how to deceive the Kiſtler <hi>Agaſi,</hi> who had the chief
+care of the Sera<g ref="char:EOLhyphen"/>glio,
+<pb n="80" facs="tcp:42268:44"/>diſpoſed himſelf to venture his Fortune,
+and abandoned him<g ref="char:EOLhyphen"/>ſelf to it, which was ſo favoura<g ref="char:EOLhyphen"/>ble to him, that he got,
+with<g ref="char:EOLhyphen"/>out oppoſition, to the Apart<g ref="char:EOLhyphen"/>ment of Sultaneſs <hi>Validé;</hi>
+ſhe was ſurprized to ſee an Un<g ref="char:EOLhyphen"/>known Perſon come in; but ſhe being
+informed of the In<g ref="char:EOLhyphen"/>trigue between the Vizier and the Princeſs
+<hi>Baſclari,</hi> ſhe eaſi<g ref="char:EOLhyphen"/>ly underſtood, that he had a mind to put
+the change upon her; but Count <hi>Teckeli's</hi> Per<g ref="char:EOLhyphen"/>ſon not diſpleaſing
+her, ſhe was willing to ſpare him ſo difficult a Complement as his
+Circum<g ref="char:EOLhyphen"/>ſtances obliged him to make. She told him ſhe ſaw very well, that
+he came in the room of <hi>Kara Muſtapha,</hi> who, proba<g ref="char:EOLhyphen"/>bly, had more
+important Af<g ref="char:EOLhyphen"/>fairs
+<pb n="81" facs="tcp:42268:44"/>upon his hands, than that of making his Court
+to her; and that ſhe was very willing to pardon the ſcorn he ſhewed of
+her Goodneſs, ſince he gave her an opportunity of ſo happi<g ref="char:EOLhyphen"/>ly recovering
+the loſs which ſhe made, by being deprived of his Company. <hi>Teckeli</hi>
+endea<g ref="char:EOLhyphen"/>voured to excuſe him, by rea<g ref="char:EOLhyphen"/>ſon of the weight of Affairs which he
+was under, being charged with all the Affairs of the <hi>Ottoman</hi> Empire.
+The Sultaneſs ſoon paſſed from this Diſcourſe to another ſort
+more tender, and remained ſo well ſatisfied with <hi>Teckeli,</hi> that
+ſhe often deſired to ſee him. This Count had ſoon learned the way of
+making Love in the Seraglio, and how <hi>Selams</hi> were to be compoſed,
+which are the
+<pb n="82" facs="tcp:42268:45"/>Love-Letters made uſe of in this Amorous
+Commerce; he made one as tender, as if he had lived all his time at
+<hi>Conſtan<g ref="char:EOLhyphen"/>tinople,</hi> and received, in An<g ref="char:EOLhyphen"/>ſwer, Musk, Amber, and o<g ref="char:EOLhyphen"/>ther
+Aromatick Gums, by which he might perceive his Services were acceptable; but he
+had Affairs which were more preſ<g ref="char:EOLhyphen"/>ſing than this Amour. It was neceſſary
+to deſtroy <hi>Pedi Pol</hi>'s Faction, and it was to this he applied
+himſelf with ſo much diligence, that the Vizier gran<g ref="char:EOLhyphen"/>ted him whatſoever
+he plea<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>Although <hi>Teckeli</hi>'s Perſon pleaſed Sultaneſs
+<hi>Validé</hi> ex<g ref="char:EOLhyphen"/>treamly, yet ſhe did not forget the Vizier's
+Perfideouſneſs; and to be revenged of him, ſhe per<g ref="char:EOLhyphen"/>ſwaded the Grand
+Signior to
+<pb n="83" facs="tcp:42268:45"/>marry <hi>Baſclari</hi> to the
+<hi>Baſſa</hi> of <hi>Buda.</hi> This Prince, who did not penetrate into
+the motives which induced his Mother to this Affair, eaſily conſented to
+what ſhe had propoſed, and gave, at her requeſt, Count <hi>Teckeli</hi>
+the Charge of Condu<g ref="char:EOLhyphen"/>cting his Siſter into <hi>Hungary.</hi> The Count's
+Affairs being now finiſhed, and it not being now ſafe for him to ſtay
+longer in <hi>Conſtantinople,</hi> without doing a prejudice to his Party,
+ſhe would not keep him longer, and thought that <hi>Teckeli</hi> being very
+handſom, might, in this long Journey, affect the Heart of her Rival, and blot
+out of it the Image of <hi>Kara Muſta<g ref="char:EOLhyphen"/>pha.</hi>
+            </p>
+            <p>
+               <hi>Teckeli</hi> would not, notwith<g ref="char:EOLhyphen"/>ſtanding, leave
+<hi>Conſtantinople,</hi>
+               <pb n="84" facs="tcp:42268:46"/>without acquainting the Vizier with the
+Employment which had been given to him. This unfortunate Lover was ſeized
+with a violent Grief, when he learned the trick that Sul<g ref="char:EOLhyphen"/>taneſs
+<hi>Validé</hi> had plaid him; he, however, comforted him<g ref="char:EOLhyphen"/>ſelf with
+the hopes, that he might preſerve a Correſpon<g ref="char:EOLhyphen"/>dence with
+<hi>Baſclari,</hi> by the means of Count <hi>Teckeli,</hi> and that it would
+not be hard for him, in the Poſt wherein he was, and the Credit his Office
+gave him, to ruine the <hi>Baſſa</hi> of <hi>Buda,</hi> and to reſtore
+<hi>Baſcla<g ref="char:EOLhyphen"/>ri</hi> to her former Liberty.</p>
+            <p>Count <hi>Teckeli</hi> during the whole Journey diſcourſed
+with the Princeſs concerning <hi>Kara Muſtapha,</hi> and found her very
+<pb n="85" facs="tcp:42268:46"/>much afflicted to ſee her ſelf married to
+any other but this Miniſter. She deſired the Count to viſit her often,
+upon pretence of endeavouring to obtain aſſi<g ref="char:EOLhyphen"/>ſtance for his Party, to the
+end they might together take means which might one day joyn her Fate with that
+of the Vizier.</p>
+            <p>This Behaviour will ſeem without doubt, very Criminal to ſome,
+and it will hardly be conceived, how a Woman, juſt going to be married,
+thinks at the ſame time of getting ano<g ref="char:EOLhyphen"/>ther Husband; but this is not
+extraordinary to theſe Prin<g ref="char:EOLhyphen"/>ceſſes, who take Husbands on<g ref="char:EOLhyphen"/>ly to inrich
+themſelves with their Spoils, and who ſome<g ref="char:EOLhyphen"/>times have had three or four
+before they are of Age, to con<g ref="char:EOLhyphen"/>ſummate
+<pb n="86" facs="tcp:42268:47"/>the Marriage. Every Nation has its Cuſtoms,
+and that which ſeems moſt to be blamed in one Country, is commen<g ref="char:EOLhyphen"/>dable in
+another. But this is enough of Moral Reflections, let us return to Count
+<hi>Tec<g ref="char:EOLhyphen"/>keli.</hi>
+            </p>
+            <p>When he had put <hi>Baſclari</hi> in<g ref="char:EOLhyphen"/>to the Hands of the
+<hi>Baſſa</hi> of <hi>Buda,</hi> he took leave of both, after having
+written to the Vizier, to give him an account of the thoughts of the
+Sulta<g ref="char:EOLhyphen"/>neſs, and returned to <hi>Alba Ju<g ref="char:EOLhyphen"/>lia,</hi> where he heard <hi>Pedi
+Pol</hi> had been defeated a ſecond time, and taken Priſoner; and there
+being nothing more now to be feared from the Port, every thing remained in
+Peace.</p>
+            <pb n="87" facs="tcp:42268:47"/>
+            <p>In the Spring <hi>Teckeli</hi> took the Field again with the
+<hi>Tran<g ref="char:EOLhyphen"/>ſilvanian</hi> Forces, and having entred <hi>Hungary,</hi> he went
+to joyn the Army of the Male<g ref="char:EOLhyphen"/>contents, near <hi>Laſſovia,</hi> which he
+found commanded by Count <hi>Vladiſlaus Weſſelini,</hi> who had
+ſucceeded his Uncle, Count <hi>Paul Weſſelini,</hi> in that Command.
+<hi>Teckeli</hi> could not brook obey<g ref="char:EOLhyphen"/>ing his Rival, and a Rival by whom he
+thought himſelf rui<g ref="char:EOLhyphen"/>ned in the thoughts of his Mi<g ref="char:EOLhyphen"/>ſtreſs; and
+<hi>Weſſelini</hi> would not yield it to Count <hi>Teckeli.</hi> Up<g ref="char:EOLhyphen"/>on this
+theſe two Heads of the Faction quarrelled; the Army took parts with their
+Generals, and in a moment a pri<g ref="char:EOLhyphen"/>vate Quarrel became a Gene<g ref="char:EOLhyphen"/>ral Battel. The
+<hi>Hungarians</hi>
+               <pb n="88" facs="tcp:42268:48"/>were ſoon forced to yield to the
+<hi>Tranſilvanians; Weſſelini</hi> ſeeing his Body broken, took flight,
+accompanied by ſome few of his Party. <hi>Teckeli</hi> cauſed him to be
+purſued by Count <hi>Thekaioli,</hi> who com<g ref="char:EOLhyphen"/>manded his right Wing; he was
+ſoon overtaken, and brought back to his Rival, who ſent him Priſoner to
+<hi>Ze<g ref="char:EOLhyphen"/>lin.</hi> This Tumult ceaſed with the taking of
+<hi>Weſſelini;</hi> and <hi>Teckeli</hi> was immediately acknowledged
+General by both Armies.</p>
+            <p>Some days after <hi>Teckeli</hi> ſent <hi>Thekaioli</hi> into
+<hi>Croatia</hi> with the Recruits from <hi>Poland,</hi> and ſome
+<hi>Hungarians.</hi> The Count having charged a Party of the Imperialiſts,
+took Count <hi>Seri<g ref="char:EOLhyphen"/>ni</hi>
+               <pb n="89" facs="tcp:42268:48"/>Priſoner, who commanded them. Princeſs
+<hi>Ragotski</hi> ha<g ref="char:EOLhyphen"/>ving heard of her Brother's misfortune, whom ſhe loved
+very dearly, reſolved to write to <hi>Teckeli</hi> to obtain his Liberty from
+him; but at the ſame time ſhe was willing to make him believe ſhe had no
+kind<g ref="char:EOLhyphen"/>neſs for him. Her Letter was in the following Terms, which which were to
+expreſs ſuch con<g ref="char:EOLhyphen"/>trary thoughts.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>
+                     <hi>IT is very grievous to me to ſee a Man, whom I ſhould
+not have thought unworthy of my Eſteem, ruine his own Country, and tear from
+me, what remains of moſt dear to me: You may ima<g ref="char:EOLhyphen"/>gine I mean my Brother. My
+Mother died at</hi> Gratz, <hi>before ſhe could obtain her Liberty;
+<pb n="90" facs="tcp:42268:49"/>and Count</hi> Serini <hi>is your
+Pri<g ref="char:EOLhyphen"/>ſoner. Believe me, leave a courſe which cannot fail of bring<g ref="char:EOLhyphen"/>ing ruine
+upon you, return to your Obedience to your Sove<g ref="char:EOLhyphen"/>raign, and I promiſe you to
+obtain the reſtitution of all your Eſtate. Nay, I will ob<g ref="char:EOLhyphen"/>lige my ſelf to
+tye you a little faſter to me, to marry you to Prince</hi> Ragotski<hi>'s
+Siſter. I ſhall know by your anſwer what thoughts you have, in relation
+to,</hi>
+                  </p>
+                  <closer>
+                     <signed>A. V. de Serini.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>He that Princeſs <hi>Ragotski</hi> had entruſted with the
+Letter, having heard that Count <hi>Seri<g ref="char:EOLhyphen"/>ni</hi> was <hi>Thekaioli</hi>'s
+Priſoner, be<g ref="char:EOLhyphen"/>lieved, the Letter was directed to him, and being miſtaken by
+the likeneſs of the ſound
+<pb n="91" facs="tcp:42268:49"/>of their Names, gave the Let<g ref="char:EOLhyphen"/>ter to this Count,
+who being willing to make an advantage of the miſtake, returned with this
+Meſſenger to <hi>Mencatz,</hi> and carried thither Count <hi>Serini.</hi>
+He had entruſted <hi>Joſhua,</hi> who ſerv'd in his Army, with this
+Adventure, he being his parti<g ref="char:EOLhyphen"/>cular Friend; <hi>Joſhua</hi> reſolved to
+accompany him, and having put the change upon him, con<g ref="char:EOLhyphen"/>ducted him to the
+Princeſs <hi>Ragotski</hi> the Dowager; who, hoping to do a great ſervice
+to the Emperour, if ſhe could make theſe two Heads of the Party, who were
+in great con<g ref="char:EOLhyphen"/>ſideration with them, leave the Malecontent Party; promiſed
+<hi>Thekaioli</hi> he ſhould marry her Daughter, if he could bring o<g ref="char:EOLhyphen"/>ver the
+Army which he com<g ref="char:EOLhyphen"/>manded,
+<pb n="92" facs="tcp:42268:50"/>to the the Emperour's Party, and conducted him
+her ſelf to <hi>Cunegonda</hi> her Daugh<g ref="char:EOLhyphen"/>ters Chamber, by whom he was very
+kindly received.</p>
+            <p>Whilſt <hi>Thekaioli</hi> endeavou<g ref="char:EOLhyphen"/>red to pleaſe the late
+Prince <hi>Ragotski</hi>'s Siſter, <hi>Joſhua</hi> went to viſit the
+Widow, and make an end of ruining <hi>Teckeli</hi> in her thoughts, told her,
+that he would neither anſwer her Letter, nor grant Count <hi>Seri<g ref="char:EOLhyphen"/>ni</hi>
+liberty; that by good luck, he was with <hi>Teckeli</hi> when he received the
+Letter, and not being able to ſuffer ſo much Ingratitude, he had treated
+himſelf with <hi>Thekaioli,</hi> and had engaged him to bring back to her,
+her Brother. Altho' the Princeſs was ſenſibly grieved, at the ſcorn
+<hi>Teckeli</hi> ſeem'd to
+<pb n="93" facs="tcp:42268:50"/>have of her, yet ſhe took no notice of it to
+<hi>Joſhua,</hi> and con<g ref="char:EOLhyphen"/>tented her ſelf, with proteſting to him, that
+ſhe ſhould always acknowledge the ſervice which he had done for her.
+<hi>Joſhua,</hi> who was not ſatisfied with bare Civilities, preſſed
+extreamly the Princeſs to reward his faithfulneſs and Conſtancy: This
+earneſtneſs made her ſuſpect ſomething, and ſhe was deſi<g ref="char:EOLhyphen"/>rous to
+clear her doubts. She took one night her Brother aſide, and asked him ſo
+many queſtions, as well as her Meſ<g ref="char:EOLhyphen"/>ſenger, that at laſt ſhe found
+<hi>Jaſhua</hi> was a Cheat. The Arti<g ref="char:EOLhyphen"/>fice which he had uſed upon this
+laſt occaſion to ſurprize her kindneſs, made her make reflections upon
+what he had told her of the Amours of
+<pb n="94" facs="tcp:42268:51"/>
+               <hi>Teckeli,</hi> with Princeſs
+<hi>Euphro<g ref="char:EOLhyphen"/>ſina,</hi> and thinking ſhe was to give no more heed to what a
+Man ſaid who once intended to deceive her, ſhe was very much pleaſed, to
+be able to believe her Lover innocent, and reſolved to undertake any thing
+which might procure her an interview with him.</p>
+            <p>In the mean while, <hi>Joſhua,</hi> who eaſily perceived that
+the Princeſs had diſcovered his Cheat, fearing he ſhould be arreſted at
+<hi>Mencatz,</hi> returned to the Army with <hi>Thekaioli.</hi> The Officers of
+the Army, who had heard that the Count came from a Place, which ought to be
+ſuſpected by them, would not acknowledge him any more for their General,
+<pb n="95" facs="tcp:42268:51"/>until they firſt knew Count
+<hi>Teckeli</hi>'s thoughts, which for<g ref="char:EOLhyphen"/>ced him to go to <hi>Vienna</hi> with
+<hi>Joſhua.</hi> This laſt made there his peace; but the Dowager Princeſs
+<hi>Ragotski,</hi> would not now accept of him for her Son-in-Law, he having no
+more the Command which he had of thoſe Forces, which he com<g ref="char:EOLhyphen"/>manded
+before.</p>
+            <p>
+               <hi>Thekaioli,</hi> ſeeing his meaſures broken on all ſides,
+went into <hi>Tranſilvania,</hi> and having given a Viſit to Count
+<hi>Weſſelini</hi> in his Priſon; he told him <hi>Jo<g ref="char:EOLhyphen"/>ſhua</hi>'s
+Treachery, and all he had ſaid to Princeſs <hi>Ragotski,</hi> to perſwade
+her that <hi>Teckeli</hi> was in love with Princeſs <hi>Euphro<g ref="char:EOLhyphen"/>ſina.
+Weſſelini</hi> who had heard that the principal Cauſe of his
+<pb n="96" facs="tcp:42268:52"/>Confinement, was, that <hi>Tecke<g ref="char:EOLhyphen"/>li</hi> was
+jealous; that it was he who had made this falſe report to Princeſs
+<hi>Ragotski,</hi> let him know that <hi>Joſhua</hi> was the Author of it.
+Count <hi>Teckeli</hi> would not at firſt believe <hi>Weſſelini</hi> upon
+his bare word only, but by good luck the Priſoner, <hi>Joſhua</hi>
+commanding a Party of the Imperialiſts, fell into an Am<g ref="char:EOLhyphen"/>buſcade, and was
+brought to Count <hi>Teckeli,</hi> who interro<g ref="char:EOLhyphen"/>gated him, in particular
+con<g ref="char:EOLhyphen"/>cerning this Treachery. <hi>Joſhua,</hi> to whom life was become
+bur<g ref="char:EOLhyphen"/>thenſome, ſince he had loſt the hopes of poſſeſſing the
+Prin<g ref="char:EOLhyphen"/>ceſs, confeſſed all to his Rival, who ſent him to the Council of
+War. His Sentence was ſoon paſſed, he was found with Arms in his hands,
+againſt the
+<pb n="97" facs="tcp:42268:52"/>Malecontents, of which Party he had been a long
+time, and ſo he was looked upon as a Rebel, and condemned to be beheaded,
+which Sentence was immediately executed upon him.</p>
+            <p>Count <hi>Teckeli,</hi> who valued himſelf upon his ſtrict
+juſtice, thought he ought not to de<g ref="char:EOLhyphen"/>fer any longer the ſetting
+<hi>Weſſelini</hi> at Liberty, after ha<g ref="char:EOLhyphen"/>ving puniſhed the Perſon who
+was alone guilty of the Crime, whereof he had accuſed
+<hi>Weſſe<g ref="char:EOLhyphen"/>lini.</hi> He therefore recalled <hi>Thekaioli,</hi> becauſe he
+had gi<g ref="char:EOLhyphen"/>ven him the opportunity of diſcovering a truth, the clear<g ref="char:EOLhyphen"/>ing of which
+was of the grea<g ref="char:EOLhyphen"/>teſt conſequence imaginable to him. But it was not enough
+<pb n="98" facs="tcp:42268:53"/>to know from whence his Diſeaſe proceeded,
+but it was neceſſary for him to cure it, and to undeceive Princeſs
+<hi>Ra<g ref="char:EOLhyphen"/>gotski.</hi> But now he could not leave the Army without hazar<g ref="char:EOLhyphen"/>ding his
+Perſon, and the Inte<g ref="char:EOLhyphen"/>reſts of his Party. In this perplexity he caſt his
+Eyes up on <hi>Thekaioli,</hi> who ſeemed pro<g ref="char:EOLhyphen"/>per to him to manage this
+Negotiation: He was known to the Princeſs, he had been already at
+<hi>Mencatz,</hi> he had a pretence of returning thither, which was his
+Marriage with the Princeſs <hi>Cunigunda;</hi> and there was no reaſon
+which might render him ſuſpicious to this unfortunate Lover. When
+<hi>The<g ref="char:EOLhyphen"/>kaioli</hi> was returned to the Ar<g ref="char:EOLhyphen"/>my, <hi>Teakeli</hi> informed him of
+his Intentions, and having
+<pb n="99" facs="tcp:42268:53"/>given him a Letter to the Prin<g ref="char:EOLhyphen"/>ceſs, he
+ſent him away with all ſpeed to <hi>Meneatz.</hi>
+            </p>
+            <p>
+               <hi>Thekaioli</hi> arriving there, found the Dowager Princeſs
+<hi>Ragotski</hi> dead, which gave him a more eaſie acceſs to her
+Daughter-in-Law, he deſired he might have Audience, and having obtained his
+Requeſt, preſented to her Count <hi>Tecke<g ref="char:EOLhyphen"/>li</hi>'s Letter, wherein ſhe
+read that which follows.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>I <hi>did not know, Madam, what occaſion I ever gave to
+de<g ref="char:EOLhyphen"/>ſerve the coldneſs which you ſhewed towards me the laſt year, when I
+went to ſee you at</hi> Men<g ref="char:EOLhyphen"/>catz; <hi>that which I had under<g ref="char:EOLhyphen"/>taken, without
+conſidering the Danger to which I was going to expoſe my ſelf, to have
+the Plea<g ref="char:EOLhyphen"/>ſure
+<pb n="100" facs="tcp:42268:54"/>of ſeeing you. And yet you would not
+anſwer the aſſurances of my Conſtancy and Faithfulneſs; and I have
+heard you accuſe me of having paid elſewhere Vows which I have never
+offered but unto you. Favour me ſo much as to let me know if you are not
+changed in your thoughts to<g ref="char:EOLhyphen"/>wards me, and if you will allow me to come my
+ſelf to ſwear to you an inviolable Conſtancy, and to receive your
+promiſes to me.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>The Princeſs would not de<g ref="char:EOLhyphen"/>fer giving <hi>Teckeli</hi> the
+ſatisfacti<g ref="char:EOLhyphen"/>on of letting him know he had fully cleared himſelf to her,
+ſhe immediately took the pen in her hand, and anſwered him in theſe
+Terms.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>I <hi>Confeſs, I have doubted of your Conſtancy, but rather
+out of
+<pb n="101" facs="tcp:42268:54"/>a niceneſs of thoughts, than any evil
+impreſſion, which would have been given to me, of your beha<g ref="char:EOLhyphen"/>viour in
+relation to me. My heart took ſo well your part, that it convinced me of your
+in<g ref="char:EOLhyphen"/>nocency, and I ſhould have made you my excuſes, for the indiffe<g ref="char:EOLhyphen"/>rency
+with which I uſed you, if you had been to be found in the Town when I ſent
+to look for you. I am notwithſtanding very glad to learn from your ſelf,
+that my Reaſoning was juſt, and that I did not ſuffer my ſelf to be
+carried away by the Inclination which I had, to think you true, and the
+deſire I had you ſhould be ſo. But yet I cannot be yours, whilſt you
+are in Arms againſt your So<g ref="char:EOLhyphen"/>veraign, obtain me from the Em<g ref="char:EOLhyphen"/>perour, or put
+your Conqueſts ſo far, as not to depend on any one but your
+ſelf.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <pb n="102" facs="tcp:42268:55"/>
+            <p>Count <hi>Teckeli</hi> had no ſooner read the Letter, but he
+thought how to remove the Obſtacles which oppoſed his happineſs. He
+ſent Deputies to the Em<g ref="char:EOLhyphen"/>perour, to promiſe him he would return to his
+Obedience, upon Condition he would con<g ref="char:EOLhyphen"/>ſent to his Marriage with Prin<g ref="char:EOLhyphen"/>ceſs
+<hi>Ragotski;</hi> but this Prince having cauſed this Propoſition to be
+conſidered of by his Council, he was adviſed not to accept of it, for fear
+leſt <hi>Teckeli</hi> might become too pow<g ref="char:EOLhyphen"/>erful by this Alliance, and that
+being puſhed on by Princeſs <hi>Ragotski,</hi> who had without doubt
+inherited the ambiti<g ref="char:EOLhyphen"/>ous thoughts of her Mother, he ſhould undertake ſome
+more dangerous Enterprize than the former.</p>
+            <pb n="103" facs="tcp:42268:55"/>
+            <p>Count <hi>Teckeli</hi> ſeeing all gentle ways ſtopped, thought
+of aſſuring himſelf by his Arms, of the happineſs which was refuſed
+to him, and to make himſelf King of <hi>Hungary,</hi> that he might marry
+without the Emperours conſent. He thought it neceſſary for the putting
+this deſign in execution, to make a ſtricter Alliance with the Grand
+Vizier; and as he could not do it without flattering the Paſſion which he
+had for <hi>Baſclari,</hi> he ſent him word it was neceſſary to ingage
+the Grand Signior to declare War againſt the Emperor, and that he ſhould
+ſend an Order to the <hi>Baſſa</hi> of <hi>Buda</hi> to join his Army to
+his, becauſe then it might be eaſie to make the <hi>Baſſa</hi>'s
+hehaviour ſuſpected by his Maſter.</p>
+            <pb n="104" facs="tcp:42268:56"/>
+            <p>
+               <hi>Teckeli</hi> did not find it diffi<g ref="char:EOLhyphen"/>cult to perſwade the
+Vizier, what he ſo much vviſhed for, becauſe he looked upon the War of
+<hi>Hungary,</hi> as a means for him to be near his Prin<g ref="char:EOLhyphen"/>ceſs. He made it be
+approved of by the Grand Signior, and ſent orders to the <hi>Baſſa</hi>
+of <hi>Buda,</hi> to act as he ſhould re<g ref="char:EOLhyphen"/>ceive directions from Count
+<hi>Teckeli.</hi>
+            </p>
+            <p>Towards the end of the Campagne, the Count did not fail of writing
+to the Grand Vizier, that he had not been well ſeconded by the
+<hi>Baſſa</hi> of <hi>Buda,</hi> and that he had infal<g ref="char:EOLhyphen"/>libly taken
+<hi>Zathmar</hi> and <hi>Ca<g ref="char:EOLhyphen"/>lo,</hi> if this <hi>Baſſa</hi> had come to him
+at the time he directed him. The Vizier ſhewed the
+<pb n="105" facs="tcp:42268:56"/>Letter to the Grand Signior, and perſwaded
+him to ſend for the <hi>Baſſa</hi> and <hi>Teckeli</hi> to
+<hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> that he might hear the Complaints and Excuſes of
+each, and know better which of them was in the right.</p>
+            <p>They both obeyed the Grand Signior's Commands. But altho' the
+Grand Vizier ſuppor<g ref="char:EOLhyphen"/>ted ſtrongly <hi>Teckeli</hi>'s Com<g ref="char:EOLhyphen"/>plaints, the
+Sultaneſs <hi>Validé</hi> knew ſo cunningly how to a<g ref="char:EOLhyphen"/>vert the Storm,
+which threat<g ref="char:EOLhyphen"/>ned <hi>Ibrahim Baſſa</hi> of <hi>Buda,</hi> whom the Grand
+Signior ſent back to his Government, with order only to follow diligent<g ref="char:EOLhyphen"/>ly,
+Count <hi>Teckeli</hi>'s Directions. In the mean while, the Vizier, who would
+not be ungrateful to this Count, commanded him by the Grand Signior's Order,
+<pb n="106" facs="tcp:42268:57"/>to make himſelf be Crowned King of
+<hi>Hungary</hi> in <hi>Buda,</hi> with all the Pomp and Magnificence which
+could be; <hi>Teckeli</hi> ſhew<g ref="char:EOLhyphen"/>ed his gratefulneſs to this Mi<g ref="char:EOLhyphen"/>niſter,
+and promiſed him to continue his Services for him, to the Princeſs
+<hi>Baſclari.</hi> After he had taken his leave of the Vizier, he rerurned to
+<hi>Buda</hi> with the <hi>Baſſa,</hi> and being come thither, gave an
+account to the Princeſs <hi>Ragotski,</hi> and Prince <hi>Abafti,</hi> of the
+ſucceſs of his Journey. <hi>Ibrahim</hi> on his ſide made known to all
+the <hi>Baſſas</hi> of <hi>Hungary,</hi> the orders which he had received
+from the Grand Signior, and commanded them to repair immediately to
+<hi>Buda,</hi> to aſſiſt at the Coronation of Count <hi>Teckeli.</hi> He
+prepared in the mean time a Throne, in the
+<pb n="107" facs="tcp:42268:57"/>great Hall of the Palace, where<g ref="char:EOLhyphen"/>in the Ancient
+Kings of <hi>Hun<g ref="char:EOLhyphen"/>gary</hi> recided heretofore, and ha<g ref="char:EOLhyphen"/>ving ordered it to be
+furniſhed with his richeſt Hangings, he fixed the Day of this Ceremo<g ref="char:EOLhyphen"/>ny, to
+be upon the firſt day of <hi>November;</hi> and having ſeated all the
+<hi>Baſſas</hi> upon Benches on each ſide of the Throne; he deputed two
+of them to wait upon Count <hi>Teckeli</hi> in his Ap<g ref="char:EOLhyphen"/>partment, and conduct
+him; ſo ſoon as he appeared, <hi>Ibrahim</hi> who was ſeated upon the
+Throne with Princeſs <hi>Baſclari,</hi> who came to the Ceremony (contrary
+to the Cuſtoms of the <hi>Turks,</hi> which forbids their Wo<g ref="char:EOLhyphen"/>men ever to
+appear in publick) and to ſhew the more reſpect to the Count, came down
+from the Throne, and went forwards to
+<pb n="108" facs="tcp:42268:58"/>meet him. He at the ſame time, took off his
+<hi>Hungarian</hi> Bonnet, and put on his Head a Turbant, to ſignifie that he
+ſubmitted himſelf to the Grand Signior, and that he held the Crown of
+<hi>Hungary</hi> but by his liberality. He then put the Scepter into his right
+hand, and a Mace of Arms in his left hand, whilſt the <hi>Baſſa</hi> of
+<hi>Buda</hi> threw over his Shoulders the Royal Man<g ref="char:EOLhyphen"/>tles. <hi>Baſclari</hi>
+came after<g ref="char:EOLhyphen"/>wards down to the loweſt after<g ref="char:EOLhyphen"/>wards down to the loweſt ſtep
+of the Throne, and having made a ſign to <hi>Teckeli</hi> to draw near, and
+having given him her Hand, made him come up in<g ref="char:EOLhyphen"/>to the place which
+<hi>Ibrahim</hi> had left empty. At the ſame time all the <hi>Hungarian</hi>
+Officers, which had accompanied the new King to this Ceremony,
+<pb n="109" facs="tcp:42268:58"/>came to ſwear Fealty to him, kneeling with
+one Knee on the Ground, and to kiſs his Hand. After this he was waited upon
+back into his own Apartment, by the ſame Officers, and by ſeveral
+<hi>Baſſas.</hi> As ſoon as he was freed from this troubleſome throng
+of People, he took a Pen in his Hand, and wrote to Princeſs <hi>Ragotski</hi>
+the follow<g ref="char:EOLhyphen"/>ing Letter.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>I <hi>Am now King, Madam, and I depend now upon none but God and
+my Sword; this is the Condition wherein you wiſhed me: But I cannot be happy,
+if you will not ſhare with me in the Condition to which Fortune has now
+raiſed me, ſince I have only deſired a Crown that I might lay it at your
+Feet. Let me know
+<pb n="110" facs="tcp:42268:59"/>if nothing oppoſes my Happineſs, and if
+I may come to offer you my Scepter, with my Vows of Faithfulneſs and
+Conſtancy.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>He ſent this Letter to her by <hi>Thekaioli,</hi> and Princeſs
+<hi>Ra<g ref="char:EOLhyphen"/>gotski</hi> returned him at the ſame time this Anſwer.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>
+                     <hi>IF Fortune has lately Crowned you, it is Love muſt
+ſettle your Throne. You have Subjects, but you have not any Town, where you
+can keep your Court. You may come to</hi> Mencatz <hi>when you will, and
+ſettle there the Seat of your Empire. You ſhall reign, wherever I am,
+Soveraign. Since you have been ſo long the Maſter of my Heart, it is but
+juſt you ſhould be ſo of my Domini<g ref="char:EOLhyphen"/>ons.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <pb n="111" facs="tcp:42268:59"/>
+            <p>Altho' Count <hi>Teckeli</hi> was extreamly fatisfied to find
+Prin<g ref="char:EOLhyphen"/>ceſs <hi>Ragotski</hi> in this Diſpoſiti<g ref="char:EOLhyphen"/>on, it troubled him
+inwardly, that the Princeſs ſo cunningly twitted him, with his having only
+the Name of a King. Al<g ref="char:EOLhyphen"/>though the ſeaſon was not very proper to make War
+in, he drew together as many <hi>Turks,</hi> Male<g ref="char:EOLhyphen"/>content <hi>Hungarians</hi>
+and <hi>Tran<g ref="char:EOLhyphen"/>ſilvanians</hi> as he could, and went to beſiege
+<hi>Caſſovia,</hi> which he took within a few days; and having forced
+<hi>Eſperies,</hi> and ma<g ref="char:EOLhyphen"/>ny other places, to acknow<g ref="char:EOLhyphen"/>ledge him for their
+Soveraign, he aſſembled the Diet at <hi>Caſſo<g ref="char:EOLhyphen"/>via</hi> the firſt day
+of <hi>February,</hi> that he might exerciſe all the rights of Soveraignty,
+and afterwards went to <hi>Mencatz,</hi>
+               <pb n="112" facs="tcp:42268:60"/>wherein Princeſs <hi>Ragotski,</hi>
+ſuf<g ref="char:EOLhyphen"/>fered him to put a Garriſon, as alſo into all other places which
+belonged to her Husband, and he afterwards married this Princeſs with great
+Pomp and Ceremony ſome days after <hi>Eaſter.</hi> In the Month of
+<hi>May</hi> the Grand Vizier came to <hi>Bu<g ref="char:EOLhyphen"/>da,</hi> where Count
+<hi>Teckeli</hi> came to wait upon him. A little while afterwards the Grand
+Signior came to <hi>Belgrade,</hi> where the Siege of <hi>Vienna</hi> was
+reſol<g ref="char:EOLhyphen"/>ved upon. <hi>Kara Muſtapha</hi> went into the Field in the beginning
+of <hi>June,</hi> and he afterwards, as it is ſaid, inveſted that place
+with an Army of near two hun<g ref="char:EOLhyphen"/>dred thouſand Men, but with what ſucceſs we
+all know.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:42268:60"/>
+            <head>Some Books printed, and ſold by <hi>R. Bentley</hi> and
+<hi>S. Magnes,</hi> in <hi>Ruſſel-Street</hi> in
+<hi>Covent-Garden.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>BEaumont</hi> and <hi>Fletchers</hi> Plays: in all 51, in
+large Fol.</item>
+               <item>Mr. <hi>Shakeſpear</hi>'s Plays: in one large Fol. Volume.
+Contai<g ref="char:EOLhyphen"/>ning 43 Plays.</item>
+               <item>Biſhop <hi>Brownrig</hi>'s Sermons, in Fol.</item>
+               <item>Dr. <hi>Comber</hi>'s Companion to the <hi>Temple</hi> and
+<hi>Altar:</hi> In Fol.</item>
+               <item>Dr. <hi>Aliſtry's</hi> 40 Sermons: In Fol.</item>
+               <item>
+                  <hi>Towerſon</hi> on the Creed: In Fol.</item>
+               <item>
+                  <hi>Hudebras</hi> Compleat: In 8 <hi>vo.</hi>
+               </item>
+               <item>Preſent State of <hi>England:</hi> In two Vol. in
+Twelves.</item>
+               <pb facs="tcp:42268:61"/>
+               <item>Enter into the Cloſet: 12.</item>
+               <item>Mr. <hi>Evelyn's</hi> Calendarium Hor<g ref="char:EOLhyphen"/>tenſ. in 8
+<hi>vo.</hi>
+               </item>
+               <item>Rules of Civility: in 12.</item>
+               <item>
+                  <hi>Mauger</hi>'s French Grammar: the Twelfth Edition: in
+<hi>Octa<g ref="char:EOLhyphen"/>vo.</hi>
+               </item>
+               <item>
+                  <hi>French</hi> Common Prayer: In 12.</item>
+               <item>
+                  <hi>French</hi> Pſalms: in 12.</item>
+               <item>
+                  <hi>French</hi> Teſtament and Pſal. in 12.</item>
+               <item>Moral Eſſays, in 4 Vol. in 12.</item>
+               <item>
+                  <hi>Plato</hi>'s Apologie of <hi>Socrates</hi> in 8
+<hi>vo.</hi>
+               </item>
+               <item>Natural Hiſt. of the <hi>Paſſions</hi> in 8
+<hi>vo.</hi>
+               </item>
+               <item>Dr. <hi>Whitby</hi> of Idolatry: In 8 <hi>vo.</hi>
+               </item>
+               <item>Dr. <hi>Whitby</hi> of Hoſt-worſhip: In 8
+<hi>vo.</hi>
+               </item>
+               <item>Dr. <hi>Whitby's</hi> Anſwer to <hi>D. Creſſey:</hi> In
+8 <hi>vo.</hi>
+               </item>
+               <pb facs="tcp:42268:61"/>
+               <item>Proſpect of Humane Miſery: in 12.</item>
+               <item>
+                  <hi>Cornelius Agrippa</hi>'s Vanity of Arts and Sciences: 8
+<hi>vo.</hi>
+               </item>
+               <item>Bp. <hi>Andrew's</hi> Devotions: In 12.</item>
+               <item>— His Manual for the ſick in 12.</item>
+               <item>Perſwaſives to the Commun. By the Author of <hi>Enter
+into thy Cloſet:</hi> in 12.</item>
+            </list>
+            <pb facs="tcp:42268:62"/>
+            <pb facs="tcp:42268:62"/>
+         </div>
+      </back>
+   </text>
+</TEI>
